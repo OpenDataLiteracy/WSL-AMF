@@ -5,12 +5,16 @@ Sponsor Name: Washington State Library (Kathleen Sullivan)
 Date: June 2019
 ---
 
-# Project Title
+# Exploring Library Curation of State Government Open Data
 
 ## Description  
 *In three to five sentences describe the project, sponsor, and relevant information about the summer internship you will be working on. Be sure to include a sentence about the key stakeholders that will be served.*
 
 The Washington state [open data portal](https://data.wa.gov/browse?limitTo=datasets) currently hosts 492 datasets (as of 10 June 2019) dating back to 2012.  As part of its work to encourage open data best practices and use, the Washington State Library would like to investigate the feasability of curating these datasets for the state and assess how the portal can be improved.  To inform this work my internship will involve assessing datasets for data and metadata quality, interviewing users of the data portal, and identifying factors that may account for poor circulation or high use.  I will also collect information on data portals from other states to put the WA state portal in a national context.  The key stakeholders are both the WA State Library and the State of Washington data managers.
+
+## Project Duration
+
+17 June - 16 August 2019
 
 ## Goals     
 *What is this project supposed to achieve, and why?*
@@ -31,59 +35,59 @@ The Washington state [open data portal](https://data.wa.gov/browse?limitTo=datas
 ## Deliverables    
 *What will this project produce? This should include items like reports, best practices, software, data, metadata schemas, models or figures, and documentation. See the two types of deliverables below:*
 
-Report
- 
-
 ### Interim     
-- A literature review 
-- An assessment of data and metadata quality
-- A draft survey/interview questions for users
+- Literature review 
+- Assessment of data and metadata quality
+- Draft survey/interview questions for users
 - Results from the survey/interviews
-- A list of factors behind the poor circulation or high circulation of datasets
-- A file of features and practices from other state data portals
+- List of factors behind the poor circulation or high circulation of datasets
+- File of features and practices from other state data portals
+- Two blogposts
 
 ### End of project
 *- A Final deliverable that will be completed at the end of the project (Many interim deliverables will likely add up to a final deliverable)*
 
-This project will produce a report clearly presenting information to help future decision making around the WA state data portal.  It will contain a summary of the data and metadata quality assessment identifying the most common violations of open data best practices.  The report will contain figures for visualizing both assessment data and responses from user surveys and an analysis of the factors behind dataset circulation. 
+- Report presenting information to help future decision making around the WA state data portal.
+- Public presentation on 16 August 2019
 
 
 ## Plan for Sustainability       
 *Describe how you will manage deliverables during the project and the plan for handing over, and sustaining deliverables over time. We require that all internships create open documentation and update their plans for sustainability regularly.*
 
-I will be in regular contact with Kathleen Sullivan and will store all files created for the project on github. 
+I will be in regular contact with Kathleen Sullivan and ODL will store all files created for the project on github. The github repository for this project will be available for future use and will be findable through ODL.
 
 ## Milestones    
 *Create a general timeline for completing each of the deliverables that you listed above. After you have settled on a timeline with feedback from your mentor, you should enter these as `Milestones` in Github's `Issues` tracker. Each task that you perform or plan to perform can then be files as an issue that is attached to a specific milestone.*
 
-### Milestone #1
+### Milestone #1 - Literature Review
 - Literature Review *Date of Completion*
 - Task & Estimated *Date of Completion*
 - ...
 
-### Milestone #2
+### Milestone #2 - Data and Metadata Quality Assessment
 - Identify variables for data and metadata quality assessment *Date of Completion*
 - Assess datasets *Date of Completion*
 - Summarize assessment data *Date of Completion*
 
-### Milestone #3
+### Milestone #3 - User Survey/Interview
 - Draft survey/interview questions *Date of Completion*
 - Send out survey or contact interviewees *Date of Completion*
 - Complete survey/interviews *Date of Completion*
 - Analyze and summarize survey/interview data *Date of Completion*
 
-### Milestone #4
+### Milestone #4 - Circulation Factors
 - Propose factors behind circulation rates based on literature review *Date of Completion*
 - Assess datasets for those factors *Date of Completion*
 - Analyze and summarize assessment data *Date of Completion*
 
-### Milestone #5
+### Milestone #5 - Compare Other State Data Portals
 - Create state data portal evaluation form *Date of Completion*
 - Evaluate other state data portals *Date of Completion*
 - Analyze and summarize evaluation data *Date of Completion*
 
-### Milestone #6
+### Milestone #6 Final Report and Presentation
 - Write report *Date of Completion*
+- Create presentation *Date of Completion*
 
 ## Changes to the work plan
 Document date and change of work plan here.
