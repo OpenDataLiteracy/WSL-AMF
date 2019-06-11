@@ -10,12 +10,16 @@ Date:
 ## Description  
 In three to five sentences describe the project, sponsor, and relevant information about the summer internship you will be working on. Be sure to include a sentence about the key stakeholders that will be served. 
 
+The Washington state (open data portal)[https://data.wa.gov/browse?limitTo=datasets] currently hosts 492 datasets (as of 10June 2019) dating back to 2012.  As part of its work to encourage open data best practices and use, the Washington State Library would like to investigate the feasability of curating these datasets for the state and assess how the portal can be improved.  To inform this work my internship will involve assessing datasets for data and metadata quality, interviewing users of the data portal, and identifying factors that may account for poor circulation or high use.  I will also collect information on data portals from other states to put the WA state portal in a national context.  The key stakeholders are both the WA State Library and the State of Washington data managers.
+
 ## Goals     
 What is this project supposed to achieve, and why?
 
-- Goal 1
-- Goal 2
-- ...
+- Identify datasets with poor data quality and poor metadata quality
+- Understand how the portal is perceived and used by users  (depositors)
+- Identify factors behind poor circulation or high circulation of datasets
+- Provide a comparison of the WA state portal and other state data portals
+- Produce a final report
 
 ### Out of scope
 Optional section, but nice to have when out of scope work starts to creep in...  
