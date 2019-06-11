@@ -13,7 +13,7 @@ Date: June 2019
 The Washington state [open data portal](https://data.wa.gov/browse?limitTo=datasets) currently hosts 492 datasets (as of 10 June 2019) dating back to 2012.  As part of its work to encourage open data best practices and use, the Washington State Library would like to investigate the feasability of curating these datasets for the state and assess how the portal can be improved.  To inform this work my internship will involve assessing datasets for data and metadata quality, interviewing users of the data portal, and identifying factors that may account for poor circulation or high use.  I will also collect information on data portals from other states to put the WA state portal in a national context.  The key stakeholders are both the WA State Library and the State of Washington data managers.
 
 ## Goals     
-What is this project supposed to achieve, and why?
+*What is this project supposed to achieve, and why?*
 
 - Provide a literature review based on a bibliography of relevant and recent references. 
 - Identify datasets with poor data quality and poor metadata quality
@@ -23,10 +23,10 @@ What is this project supposed to achieve, and why?
 - Produce a final report
 
 ### Out of scope
-Optional section, but nice to have when out of scope work starts to creep in...  
+*Optional section, but nice to have when out of scope work starts to creep in...  *
 
 ### Time allowing
-Include work that may happen if given enough time.
+*Include work that may happen if given enough time.*
 
 ## Deliverables    
 *What will this project produce? This should include items like reports, best practices, software, data, metadata schemas, models or figures, and documentation. See the two types of deliverables below:*
@@ -54,18 +54,36 @@ This project will produce a report clearly presenting information to help future
 I will be in regular contact with Kathleen Sullivan and will store all files created for the project on github. 
 
 ## Milestones    
-Create a general timeline for completing each of the deliverables that you listed above. After you have settled on a timeline with feedback from your mentor, you should enter these as `Milestones` in Github's `Issues` tracker. Each task that you perform or plan to perform can then be files as an issue that is attached to a specific milestone.
+*Create a general timeline for completing each of the deliverables that you listed above. After you have settled on a timeline with feedback from your mentor, you should enter these as `Milestones` in Github's `Issues` tracker. Each task that you perform or plan to perform can then be files as an issue that is attached to a specific milestone.*
 
 ### Milestone #1
-- Task & Estimated Date of Completion
-- Task & Estimated Date of Completion
+- Literature Review *Date of Completion*
+- Task & Estimated *Date of Completion*
 - ...
+
 ### Milestone #2
-- Task & Estimated Date of Completion
-- Task & Estimated Date of Completion
-- ...
-### Milestone #
-- ...
+- Identify variables for data and metadata quality assessment *Date of Completion*
+- Assess datasets *Date of Completion*
+- Summarize assessment data *Date of Completion*
+
+### Milestone #3
+- Draft survey/interview questions *Date of Completion*
+- Send out survey or contact interviewees *Date of Completion*
+- Complete survey/interviews *Date of Completion*
+- Analyze and summarize survey/interview data *Date of Completion*
+
+### Milestone #4
+- Propose factors behind circulation rates based on literature review *Date of Completion*
+- Assess datasets for those factors *Date of Completion*
+- Analyze and summarize assessment data *Date of Completion*
+
+### Milestone #5
+- Create state data portal evaluation form *Date of Completion*
+- Evaluate other state data portals *Date of Completion*
+- Analyze and summarize evaluation data *Date of Completion*
+
+### Milestone #6
+- Write report *Date of Completion*
 
 ## Changes to the work plan
 Document date and change of work plan here.
