@@ -47,7 +47,7 @@ The Washington state [open data portal](https://data.wa.gov/browse?limitTo=datas
 ### End of project
 *- A Final deliverable that will be completed at the end of the project (Many interim deliverables will likely add up to a final deliverable)*
 
-- Report presenting information to help future decision making around the WA state data portal.
+- Report presenting information to help future decision making around the WA state data portal
 - Public presentation on 16 August 2019
 
 
