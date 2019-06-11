@@ -1,8 +1,8 @@
 ---
 Title: Plan of work
-Intern Name:
-Sponsor Name:
-Date: 
+Intern Name: Andrew Mckenna-Foster
+Sponsor Name: Washington State Library (Kathleen Sullivan)
+Date: June 2019
 ---
 
 # Project Title
