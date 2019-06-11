@@ -51,7 +51,7 @@ This project will produce a report clearly presenting information to help future
 ## Plan for Sustainability       
 *Describe how you will manage deliverables during the project and the plan for handing over, and sustaining deliverables over time. We require that all internships create open documentation and update their plans for sustainability regularly.*
 
-
+I will be in regular contact with Kathleen Sullivan and will store all files created for the project on github. 
 
 ## Milestones    
 Create a general timeline for completing each of the deliverables that you listed above. After you have settled on a timeline with feedback from your mentor, you should enter these as `Milestones` in Github's `Issues` tracker. Each task that you perform or plan to perform can then be files as an issue that is attached to a specific milestone.
@@ -73,7 +73,7 @@ Document date and change of work plan here.
 ## Communication
 
 - [Customize and add bullets]
-- Update the ODL GitHub repository at least weekly and more as needed, so the internship’s documentation is current and thorough. Notify [sponsor name] and others as needed about updated reports.
-- Respond to [sponsor name] or ODL team within 24 business hours.
-- Use [platforms determined by intern and sponsor], email, and Slack for communication with [sponsor name] and the ODL team.
+- Update the ODL GitHub repository at least weekly and more as needed, so the internship’s documentation is current and thorough. Notify Kathleen Sullivan and others as needed about updated reports.
+- Respond to Kathleen Sullivan or ODL team within 24 business hours.
+- Use [platforms determined by intern and sponsor], email, and Slack for communication with Kathleen Sullivan and the ODL team.
 - Include any travel, online meetings, and/or site visits planned...
