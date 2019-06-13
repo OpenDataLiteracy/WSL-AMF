@@ -54,40 +54,40 @@ The Washington state [open data portal](https://data.wa.gov/browse?limitTo=datas
 ## Plan for Sustainability       
 *Describe how you will manage deliverables during the project and the plan for handing over, and sustaining deliverables over time. We require that all internships create open documentation and update their plans for sustainability regularly.*
 
-I will be in regular contact with Kathleen Sullivan and ODL will store all files created for the project on github. The github repository for this project will be available for future use and will be findable through ODL.
+I will be in regular contact with Kathleen Sullivan and OD. I will store all files created for the project on github. The github repository for this project will be available for future use and will be findable through ODL.
 
 ## Milestones    
 *Create a general timeline for completing each of the deliverables that you listed above. After you have settled on a timeline with feedback from your mentor, you should enter these as `Milestones` in Github's `Issues` tracker. Each task that you perform or plan to perform can then be files as an issue that is attached to a specific milestone.*
 
 ### Milestone #1 - Literature Review
-- Literature Review *Date of Completion*
+- Literature Review *21 June*
 - Task & Estimated *Date of Completion*
 - ...
 
-### Milestone #2 - Data and Metadata Quality Assessment
-- Identify variables for data and metadata quality assessment *Date of Completion*
-- Assess datasets *Date of Completion*
-- Summarize assessment data *Date of Completion*
+### Milestone #2 - Compare Other State Data Portals
+- Create state data portal evaluation form *21 June*
+- Evaluate other state data portals *28 June*
+- Analyze and summarize evaluation data *5 July*
 
-### Milestone #3 - User Survey/Interview
-- Draft survey/interview questions *Date of Completion*
-- Send out survey or contact interviewees *Date of Completion*
-- Complete survey/interviews *Date of Completion*
-- Analyze and summarize survey/interview data *Date of Completion*
+### Milestone #3 - Data and Metadata Quality Assessment
+- Identify variables for data and metadata quality assessment *28 June*
+- Assess datasets *26 July*
+- Summarize assessment data *9 August*
 
-### Milestone #4 - Circulation Factors
-- Propose factors behind circulation rates based on literature review *Date of Completion*
-- Assess datasets for those factors *Date of Completion*
-- Analyze and summarize assessment data *Date of Completion*
+### Milestone #4 - User Survey/Interview
+- Draft survey/interview questions *28 June*
+- Send out survey or contact interviewees *1 July*
+- Complete survey/interviews *26 July*
+- Analyze and summarize survey/interview data *2 August*
 
-### Milestone #5 - Compare Other State Data Portals
-- Create state data portal evaluation form *Date of Completion*
-- Evaluate other state data portals *Date of Completion*
-- Analyze and summarize evaluation data *Date of Completion*
+### Milestone #5 - Circulation Factors
+- Propose factors behind circulation rates based on literature review *26 June*
+- Assess datasets for those factors *12 July*
+- Analyze and summarize assessment data *19 July*
 
 ### Milestone #6 Final Report and Presentation
 - Write report *Date of Completion*
-- Create presentation *Date of Completion*
+- Create presentation *16 August*
 
 ## Changes to the work plan
 Document date and change of work plan here.
