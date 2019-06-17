@@ -11,3 +11,8 @@ datasets are gifts and this is a challenge
 Intellectual Freedom - Don't discrimitate data
 Inclusion - who is rep and who isn't
 
+Kathleen emailed documents:
+- Links to datasets sorted by type, for review
+- Links to information on the OCIO's Open data advisory group
+- Comments on work plan
+
