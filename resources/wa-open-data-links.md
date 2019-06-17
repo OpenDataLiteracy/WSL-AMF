@@ -5,7 +5,9 @@ OCIO's Open Data Advisory Group pages:
 [Open Data | OCIO (AdvisoryGroup)](https://ocio.wa.gov/boards-and-committees/open-data-0)
 
 [Open Data Planning Maturity | Data.WA | State of Washington](https://data.wa.gov/dataset/Open-Data-Planning-Maturity/5r58-ib3h)
+
 [WAOCIO_OpenDataPlanning_Policy187](https://ocio.wa.gov/policy/open-data-planning)
+
 [WAOCIO_OpenDataPlanning_GuidanceOnCreatingAPlan(IncludesSomeUXGuidance)](https://ocio.wa.gov/initiatives/open-data/guidance-agency-open-data-plans)
 
 
