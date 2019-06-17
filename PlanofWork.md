@@ -8,7 +8,6 @@ Date: June 2019
 # Exploring Library Curation of State Government Open Data
 
 ## Description  
-*In three to five sentences describe the project, sponsor, and relevant information about the summer internship you will be working on. Be sure to include a sentence about the key stakeholders that will be served.*
 
 The Washington state [open data portal](https://data.wa.gov/browse?limitTo=datasets) currently hosts 492 datasets (as of 10 June 2019) dating back to 2012. As part of its work to encourage open data best practices and use, the Washington State Library would like to investigate the feasibility of curating these datasets for the state and assess how the portal can be improved. To inform this work, University of Washington Open Data Literacy intern, Andrew Mckenna-Foster, will assess datasets for data and metadata quality, interview users of the data portal, and identify factors that may account for poor circulation or high use. The key stakeholders are both the WA State Library and the State of Washington data managers.
 
