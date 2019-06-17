@@ -10,7 +10,7 @@ Date: June 2019
 ## Description  
 *In three to five sentences describe the project, sponsor, and relevant information about the summer internship you will be working on. Be sure to include a sentence about the key stakeholders that will be served.*
 
-The Washington state [open data portal](https://data.wa.gov/browse?limitTo=datasets) currently hosts 492 datasets (as of 10 June 2019) dating back to 2012. As part of its work to encourage open data best practices and use, the Washington State Library would like to investigate the feasability of curating these datasets for the state and assess how the portal can be improved. To inform this work, University of Washington Open Data Literacy intern, Andrew Mckenna-Foster, will assess datasets for data and metadata quality, interview users of the data portal, and identify factors that may account for poor circulation or high use. The key stakeholders are both the WA State Library and the State of Washington data managers.
+The Washington state [open data portal](https://data.wa.gov/browse?limitTo=datasets) currently hosts 492 datasets (as of 10 June 2019) dating back to 2012. As part of its work to encourage open data best practices and use, the Washington State Library would like to investigate the feasibility of curating these datasets for the state and assess how the portal can be improved. To inform this work, University of Washington Open Data Literacy intern, Andrew Mckenna-Foster, will assess datasets for data and metadata quality, interview users of the data portal, and identify factors that may account for poor circulation or high use. The key stakeholders are both the WA State Library and the State of Washington data managers.
 
 ## Project Duration
 
@@ -61,10 +61,11 @@ I will be in regular contact with Kathleen Sullivan and OD. I will store all fil
 
 ### Milestone #2 - Data and Metadata Quality Assessment
 - Identify variables for data and metadata quality assessment *28 June*
-- Assess datasets *26 July*
+- Assess at least 25% of datasets *26 July*
+- Review data published in other formats (maps, images 
 - Summarize assessment data *9 August*
 
-### Milestone #3 - User Interview
+### Milestone #3 - User Interviews
 - Draft interview questions *28 June*
 - Contact interviewees *1 July*
 - Complete interviews *26 July*
@@ -76,7 +77,7 @@ I will be in regular contact with Kathleen Sullivan and OD. I will store all fil
 - Analyze and summarize assessment data *19 July*
 
 ### Milestone #5 Final Report and Presentation
-- Write report *Date of Completion*
+- Write report *16 August*
 - Create presentation *16 August*
 
 ![Milestones](https://github.com/OpenDataLiteracy/WSL-AMF/blob/master/ODL-Timeline.png)
@@ -87,7 +88,9 @@ I will be in regular contact with Kathleen Sullivan and OD. I will store all fil
 ## Communication
 
 - [Customize and add bullets]
-- Update the ODL GitHub repository at least weekly and more as needed, so the internship’s documentation is current and thorough. Notify Kathleen Sullivan and others as needed about updated reports.
+- Update the ODL GitHub repository at least weekly and more as needed, so the internship’s documentation is current and thorough.
+- Notify Kathleen Sullivan and others as needed about updated reports.
+- Meet with Kathleen either in person or through Zoom once a week or as needed.
 - Respond to Kathleen Sullivan or ODL team within 24 business hours.
-- Use [platforms determined by intern and sponsor], email, and Slack for communication with Kathleen Sullivan and the ODL team.
+- Use Zoom, email, and Slack for communication with Kathleen Sullivan and the ODL team.
 - Include any travel, online meetings, and/or site visits planned...
