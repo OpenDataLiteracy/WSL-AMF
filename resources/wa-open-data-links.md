@@ -14,11 +14,17 @@ OCIO's Open Data Advisory Group pages:
 Agencies with online content about their open data:
 
 [WAPublicDisclosureCommission_OpenDataPlan](https://gitlab.com/wapdc/OpenData-Program/wikis/home)
+
 [WAPublicDisclosureCommission_OpenDataPlan_NextGenerationDataAccessProject (PhaseI link lists stakeholders)](https://www.pdc.wa.gov/engage/next-generation-data-access-project)
+
 [WSPRC_Washington State Parks Map - Staff Version](https://wa-stateparks.maps.arcgis.com/home/webmap/viewer.html?webmap=5ae6ee17e6124a17854c715d995dc55b)
+
 [OpenDataPlan_WDVA](http://www.dva.wa.gov/node/259)
+
 [OpenDataPlan_PugetSoundPartnership.pdf | Powered by Box](https://pspwa.app.box.com/v/OpenDataPlan)
+
 [Washington State Fiscal Website (LEAP)](http://fiscal.wa.gov/)
+
 [Open data plan | Office of Financial Management](https://ofm.wa.gov/about/about-our-website/open-data-plan)
 
 
