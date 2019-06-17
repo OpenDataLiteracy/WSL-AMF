@@ -18,7 +18,8 @@ The Washington state [open data portal](https://data.wa.gov/browse?limitTo=datas
 ## Goals     
 *What is this project supposed to achieve, and why?*
 
-- Provide a literature review based on a bibliography of relevant and recent references. 
+- Provide a literature review based on a bibliography of relevant and recent references.
+- One on ones with State Library staff to learn about library operations
 - Identify datasets with poor data quality and poor metadata quality
 - Understand how the portal is perceived and used by users  (depositors)
 - Identify factors behind poor circulation or high circulation of datasets
