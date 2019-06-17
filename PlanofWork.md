@@ -89,10 +89,10 @@ I will be in regular contact with Kathleen Sullivan and OD. I will store all fil
 - Write report *Date of Completion*
 - Create presentation *16 August*
 
+![Milestones](https://github.com/OpenDataLiteracy/WSL-AMF/blob/master/ODL-Timeline.png)
+
 ## Changes to the work plan
 Document date and change of work plan here.
-
-https://github.com/OpenDataLiteracy/WSL-AMF/blob/master/ODL-Timeline.png
 
 ## Communication
 
