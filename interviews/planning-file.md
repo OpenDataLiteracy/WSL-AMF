@@ -9,3 +9,12 @@ Any best practices from literature on how to identify users?
 
 Will need to record interviews
 
+
+**Interview List**
+*Major Users:*
+- Chadd Bennett, Assistant Director of Digital Information, Washington Student Achievement Council
+  - High end user of portal, may feel limited by portal features (per Will Saunders)
+- Cristie Fredrickson, Chief Information Officer, Department of Ecology
+- Matthew Oram, Chief Information Officer, Department of Fish and Wildlife
+
+*Mid-level Users*
