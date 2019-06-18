@@ -23,13 +23,14 @@ The Washington state [open data portal](https://data.wa.gov/browse?limitTo=datas
 - Identify datasets with poor data quality and poor metadata quality
 - Understand how the portal is perceived and used by users  (depositors)
 - Identify factors behind poor circulation or high circulation of datasets
-- Produce a final report
+- Produce a final report with recommendations
 
 ### Out of scope
 Any editing, remediation, publishing, or curation of datasets.
 
 ### Time allowing
-A site visit to one of the libraries for which the State Library is providing open data consulting services. This may involve too much travel but could be useful informing recommendations for the state data portal.  
+- A site visit to one of the libraries for which the State Library is providing open data consulting services. This may involve too much travel but could be useful informing recommendations for the state data portal.
+- Investigate how to manage the transition from active datasets to archived datasets.
 
 ## Deliverables    
 *What will this project produce? This should include items like reports, best practices, software, data, metadata schemas, models or figures, and documentation. See the two types of deliverables below:*
