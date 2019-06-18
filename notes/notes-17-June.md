@@ -21,7 +21,7 @@ Kathleen emailed documents:
 **Will Saunders**: Portal is a "halfway house" for junky data.  It best serves the more decentralized departments with PhD managers who can take advantage of the portal's services.  The portal is becoming more popular with the bigger and more centralized agencies who dump data there as a way to fulfill a service and wipe their hands of it.  The state is one removed from the citizens who it provides services to so catering to users is different.
 
 Agencies to interview- 
-- Chad Bennet, Student Acheivement Council (long time user)
+- Chadd Bennett, Student Acheivement Council (long time user)
 - Department of Ecology
 - FWS
 
