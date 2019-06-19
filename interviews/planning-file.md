@@ -19,3 +19,9 @@ Will need to record interviews
 - Matthew Oram, Chief Information Officer, Department of Fish and Wildlife
 
 *Mid-level Users*
+
+
+
+**Communication Notes**
+
+Chadd Bennett: Will gave him my information and he emailed me. He's moving to Chicago week of 17June but I asked if we could do a video interview in the next few weeks.
