@@ -12,23 +12,26 @@ Will need to record interviews
 
 **Interview List**
 
-*Major Users:*
+*Major Users:*  High number of datasets (>20) and or high number of downloads
 - Cristie Fredrickson, Chief Information Officer, Department of Ecology
 - Matthew Oram, Chief Information Officer, Department of Fish and Wildlife
 - Office of Juvenile Justice
 - Washington State Department of Health
+- Department of Ecology and Department of Fish and Wildlife (I'll choose one)
+- 
 
 
-*Mid-level Users*
+*Mid-level Users* Have uploaded 10-20 datasets and/or have around 500 downloads
+- Washington State Arts Commission: high downloads
+- Office of the superintendent of Public Schools
 
-
-*Low-level Users*
+*Low-level Users* Have 1-9 datasets and/or fewer than 500 downloads
 - Chadd Bennett, Assistant Director of Digital Information, Washington Student Achievement Council
   - May feel limited by portal features (per Will Saunders). WSAC has tons of dashboards on their site
-- Washington Recreation and COnservation Office
-- Washington State Arts Commission
+- Washington Recreation and Conservation Office
+- 
 
 
 **Communication Notes**
 
-Chadd Bennett: Will gave him my information and he emailed me. He's moving to Chicago week of 17June but I asked if we could do a video interview in the next few weeks.
+Chadd Bennett: Will gave him my information and he emailed me. He's moving to Chicago week of 17June but I asked if we could do a video interview in the next few weeks. I will email him July 9th for an interview during the week of July 15.
