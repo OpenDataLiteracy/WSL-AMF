@@ -13,13 +13,20 @@ Will need to record interviews
 **Interview List**
 
 *Major Users:*
-- Chadd Bennett, Assistant Director of Digital Information, Washington Student Achievement Council
-  - High end user of portal, may feel limited by portal features (per Will Saunders)
 - Cristie Fredrickson, Chief Information Officer, Department of Ecology
 - Matthew Oram, Chief Information Officer, Department of Fish and Wildlife
+- Office of Juvenile Justice
+- Washington State Department of Health
+
 
 *Mid-level Users*
 
+
+*Low-level Users*
+- Chadd Bennett, Assistant Director of Digital Information, Washington Student Achievement Council
+  - May feel limited by portal features (per Will Saunders). WSAC has tons of dashboards on their site
+- Washington Recreation and COnservation Office
+- Washington State Arts Commission
 
 
 **Communication Notes**
