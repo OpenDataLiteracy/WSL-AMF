@@ -14,6 +14,10 @@
 [European opne data recommendations 2017](https://www.europeandataportal.eu/en/what-we-do/factsheets-and-reports)
 
 
+**Example open data policies**
+
+[Witchita](https://opendatapolicyhub.sunlightfoundation.com/collection/wichita-ks-2016-09-08/?guideline=permanent-access)
+
 
 **Why save old data**
 
