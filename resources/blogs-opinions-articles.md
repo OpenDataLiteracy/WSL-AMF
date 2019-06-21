@@ -12,3 +12,5 @@ These are links to non peer reviewed publications about open data.
 [Meta Brown, City Governments Making...](https://www.forbes.com/sites/metabrown/2018/04/29/city-governments-making-public-data-easier-to-get-90-municipal-open-data-portals/#11be527d5a0d) A similar Forbes article that lists data portals for 90 cities.
 
 [European Data Portal data usefulness](https://www.europeandataportal.eu/elearning/en/module10/#/id/co-01)  Modules on the five stars of data reusability
+
+[Open data quality- the next shift...](https://blog.okfn.org/2017/05/31/open-data-quality-the-next-shift-in-open-data/)
