@@ -11,8 +11,12 @@
 
 [Open Data Policy Hub](https://opendatapolicyhub.sunlightfoundation.com/guidelines/)
 
-[European opne data recommendations 2017](https://www.europeandataportal.eu/en/what-we-do/factsheets-and-reports)
+[European open data recommendations 2017](https://www.europeandataportal.eu/en/what-we-do/factsheets-and-reports)
 
+[European open data](https://www.europeandataportal.eu/sites/default/files/edp_landscaping_insight_report_n4_2018.pdf) discusses state of portals.
+- Page 28 is start of chapter on assessing portals.  Just reports basic analytics for protal usage though.
+- Page 36 shows popular data domains for pubishers.
+- Has good examples of portal impact
 
 **Example open data policies**
 
