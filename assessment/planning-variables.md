@@ -28,5 +28,7 @@ variables listed below.  I will assign the datasets random numbers and then sort
 - Is the dataset description rich but understandable?
 
 
+I should assess based on the [5-stars](https://www.europeandataportal.eu/elearning/en/module10/#/id/co-01)
+
 
 ### Questions
