@@ -25,7 +25,7 @@ There is also the open government benchmark proposed by [Veljkovi´c et al. (201
 
 ### Variables
 
-- Data Assessed
+- File format
 - Publishing Agency
 - Number of downloads
 - Date of publication
@@ -38,5 +38,18 @@ There is also the open government benchmark proposed by [Veljkovi´c et al. (201
 
 I should assess based on the [5-stars](https://www.europeandataportal.eu/elearning/en/module10/#/id/co-01)
 
+
+### Sample of datasets for assessment
+
+- Took 14 datasets from 12 groupings: 
+ - # Downloads (<100, >101 but <1500, >1500)
+ - Year Created (2012/2013, 2014/2015, 2016,2017, 2018,2019)
+
+Assessment: Assess relevant variables on a 4 point scale: 0 = not present, 1 = no, 2 = somewhat, 3 = yes
+
+* Check to make sure dataset is still published
+* Title Understandable?
+* Description Helpful?
+* Keywords Useful?
 
 ### Questions
