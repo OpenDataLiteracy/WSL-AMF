@@ -19,7 +19,7 @@ Use Kubler et al. (2018) framework?  Also, should capture datasets from early, m
 
 The European Open Data Portal Monitor assesses metadata completeness by these variables:
     
-    This measure is an average of the missing metadata across a defined set of fields: licence, author, organisation, date released and date updated. 
+> This measure is an average of the missing metadata across a defined set of fields: licence, author, organisation, date released and date updated. 
 
 ### Variables
 
