@@ -21,6 +21,8 @@ The European Open Data Portal Monitor assesses metadata completeness by these va
     
 > This measure is an average of the missing metadata across a defined set of fields: licence, author, organisation, date released and date updated. 
 
+There is also the open government benchmark proposed by [Veljkovi´c et al. (2014)](https://www.sciencedirect.com/science/article/pii/S0740624X14000434)
+
 ### Variables
 
 - Data Assessed
