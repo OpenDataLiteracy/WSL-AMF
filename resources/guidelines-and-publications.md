@@ -18,6 +18,8 @@
 - Page 36 shows popular data domains for pubishers.
 - Has good examples of portal impact
 
+[European Open Data Monitor](https://www.opendatamonitor.eu/frontend/web/index.php?r=dashboard%2Findex)
+
 **Example open data policies**
 
 [Witchita](https://opendatapolicyhub.sunlightfoundation.com/collection/wichita-ks-2016-09-08/?guideline=permanent-access)
