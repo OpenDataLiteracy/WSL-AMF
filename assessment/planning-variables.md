@@ -47,9 +47,9 @@ I should assess based on the [5-stars](https://www.europeandataportal.eu/elearni
 
 Assessment: Assess relevant variables on a 4 point scale: 0 = not present, 1 = no, 2 = somewhat, 3 = yes
 
-> Check to make sure dataset is still published
-> Title Understandable?
-> Description Helpful?
-> Keywords Useful?
+1. Check to make sure dataset is still published
+2. Title Understandable?
+3. Description Helpful?
+4. Keywords Useful?
 
 ### Questions
