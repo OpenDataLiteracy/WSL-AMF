@@ -36,7 +36,7 @@ Vetrò, A., Canova, L., Torchiano, M., Minotas, C. O., Iemma, R., & Morando, F. 
 
 [European Open Data Monitor](https://www.opendatamonitor.eu/frontend/web/index.php?r=dashboard%2Findex)
 
-[Showell ODL project](https://github.com/OpenDataLiteracy/CityOfSeattle-2017/blob/master/SeattleMetadataStandards.pdf)
+[Showell ODL project](https://github.com/OpenDataLiteracy/CityOfSeattle-2017/blob/master/SeattleMetadataStandards.pdf) - An analysis of City of Seattle metadata.
 
 **Freedom of Information Act Research**
 [Sunlight Foundation](https://sunlightfoundation.com/2018/10/09/research-cities-save-time-on-records-requests-by-doing-open-data-right/) FOIA's decrease if open data is done right. [Full Report](http://sunlightfoundation.com/wp-content/uploads/2018/10/alena-white-paper-PDF.pdf)
