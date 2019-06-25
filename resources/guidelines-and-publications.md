@@ -4,6 +4,9 @@
 
 [Machova and Lnenicka 2017 Evaluating the Quality of Open Data...](https://pdfs.semanticscholar.org/30d3/c97ed33dff97601142476859370784f9ad76.pdf)
 
+[Kubler et al. 2018 metadata quality assessment](http://www.sciencedirect.com/science/article/pii/S0740624X16301319)
+
+[Neumaier et al 2017 Automated method of assessing metadata](http://doi.acm.org/10.1145/2964909)
 
 
 
