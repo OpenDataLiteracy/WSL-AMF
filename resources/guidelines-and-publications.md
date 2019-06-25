@@ -9,7 +9,6 @@
 [Neumaier et al 2017 Automated method of assessing metadata](http://doi.acm.org/10.1145/2964909)
 
 *From Nic*
-Comparison of metadata quality in open data portals using the Analytic Hierarchy Process. (2018). Government Information Quarterly, 35(1), [13–29.](https://doi.org/10.1016/j.giq.2017.11.003)
 
 Data quality assessment of maintenance reporting procedures. (2016). Expert Systems with Applications, 63, [145–164.](https://doi.org/10.1016/j.eswa.2016.06.043)
 
