@@ -10,9 +10,9 @@
 
 *From Nic*
 
-Data quality assessment of maintenance reporting procedures. (2016). Expert Systems with Applications, 63, [145–164.](https://doi.org/10.1016/j.eswa.2016.06.043)
+Data quality assessment of maintenance reporting procedures. (2016). Expert Systems with Applications, 63, [145–164.](https://doi.org/10.1016/j.eswa.2016.06.043) -Very similar to Neumaier et al but with business branch maintenance reporting. Technical.
 
-[https://books.google.com/books?id=4pKT1R0DfToC](https://books.google.com/books?id=4pKT1R0DfToC)
+[Geiger and Lucke 2012](https://jedem.org/index.php/jedem/article/view/143) - An older paper about state open data.  Cites the 10 fundementals of OGD from Sunlight Foundation. Talks about paradigm shift from default closed data to default open data. Does a SWOT analysis on OGD.
 
 Mitlöhner, J., Neumaier, S., Umbrich, J., & Polleres, A. (2016). Characteristics of Open Data CSV Files. 2016 2nd International Conference on Open and Big Data (OBD), [72–79.](https://doi.org/10.1109/OBD.2016.18)
 
