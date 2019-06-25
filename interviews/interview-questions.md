@@ -1,6 +1,23 @@
 ## Interview Questions
 
-I am an intern with the University of Washington iSchool’s Open Data Literacy program and I am working with the State Library to assess the State’s open data portal.  It’s about seven years old and we are interested in understanding how state agencies use it and how it can be improved as a resource.  As an agency that publishes data to the portal, you may have important insights.
+Hello
+
+
+I am a master's student at the University of Washington iSchool and this summer I am working with the State Library to assess the State’s open data portal (data.wa.gov).  
+
+The state data portal is almost a decade old and one aspect of my project is understanding how state agencies use it and how it can be improved as a resource.
+
+
+I am contacting you because you have published datasets on the portal on behalf of __ and I am interested in hearing about your experience with the portal and your agency's efforts with open data in general.  Would you be willing to talk with me for about 30 minutes through a video chat?  All responses will be anonymized.  It would be great to talk with you this Friday, Monday afternoon, or Tuesday at a time of your convenience.  Later in July could work too.
+
+
+Thank you for your consideration.
+
+
+Sincerely,
+
+
+Andrew
 
 
 * What is your experience with the open data portal?
