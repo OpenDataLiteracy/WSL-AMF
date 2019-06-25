@@ -8,6 +8,20 @@
 
 [Neumaier et al 2017 Automated method of assessing metadata](http://doi.acm.org/10.1145/2964909)
 
+*From Nic*
+Comparison of metadata quality in open data portals using the Analytic Hierarchy Process. (2018). Government Information Quarterly, 35(1), [13–29.](https://doi.org/10.1016/j.giq.2017.11.003)
+
+Data quality assessment of maintenance reporting procedures. (2016). Expert Systems with Applications, 63, [145–164.](https://doi.org/10.1016/j.eswa.2016.06.043)
+
+[https://books.google.com/books?id=4pKT1R0DfToC](https://books.google.com/books?id=4pKT1R0DfToC)
+
+Mitlöhner, J., Neumaier, S., Umbrich, J., & Polleres, A. (2016). Characteristics of Open Data CSV Files. 2016 2nd International Conference on Open and Big Data (OBD), [72–79.](https://doi.org/10.1109/OBD.2016.18)
+
+Umbrich, J., Neumaier, S., & Polleres, A. (2015). Quality Assessment and Evolution of Open Data Portals. 2015 3rd International Conference on Future Internet of Things and Cloud, [404–411.](https://doi.org/10.1109/FiCloud.2015.82)
+
+Veljkovic et Al. (n.d.). Municipal Open Data Challenges. In CeDEM11. Retrieved [from](https://books.google.com/books?hl=en&lr=&id=4pKT1R0DfToC&oi=fnd&pg=PA195&dq=%22open+data%22+state+level+&ots=DQloB6ejU7&sig=xv_VTqTlq63w-_ClN8AdL_N8f0#v=onepage&q=%22open%20data%22%20state%20level&f=false)
+
+Vetrò, A., Canova, L., Torchiano, M., Minotas, C. O., Iemma, R., & Morando, F. (2016). Open data quality measurement framework: Definition and application to Open Government Data. Government Information Quarterly, 33(2), [325–337.](https://www.sciencedirect.com/science/article/pii/S0740624X16300132)
 
 
 **Open Data Guidelines and Reports**
