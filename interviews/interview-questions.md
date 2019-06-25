@@ -9,4 +9,5 @@ I am an intern with the University of Washington iSchool’s Open Data Literacy 
 * What challenges do you face publishing data on data.wa.gov?
 * Do you know who uses your data?
 * Does your agency use data.wa.gov to find data?
+* When needed, how does your agency obtain information from other agencies?
 * Is there anything else you think I should know?
