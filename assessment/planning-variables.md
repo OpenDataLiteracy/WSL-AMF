@@ -41,7 +41,7 @@ I should assess based on the [5-stars](https://www.europeandataportal.eu/elearni
 
 ### Sample of datasets for assessment
 
-- Took 14 datasets from 12 groupings: 
+- Took 115 datasets from 12 groupings: 
  - Number of Downloads (<100, >101 but <1500, >1500)
  - Year Created (2012/2013, 2014/2015, 2016,2017, 2018,2019)
 
