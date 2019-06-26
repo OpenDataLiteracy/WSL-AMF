@@ -1,6 +1,6 @@
 ## Planning Assessment Strategy
 
-A sample of datasets will be used to assess the data level variables listed below.  The complete catalog, or just the datasets, can be assessed for the following:
+The complete catalog, or just the datasets, can be assessed for the following:
 
 - Percent overall metadata completeness
 - Percent with a description
@@ -11,15 +11,19 @@ A sample of datasets will be used to assess the data level variables listed belo
 
 ### A Sample of Datasets
 
-Aiming for 25% or ~125 datasets as a sample.  I will use a stratified random sample design:  The list of datasets will be divided into
-three levels based on the number of downloads and ~40 datasets from each level will be randomly selected evaluated based on the
-variables listed below.  I will assign the datasets random numbers and then sort each level by that number to randomly select datasets.
+A sample of datasets will be used to assess more granular aspects such as aboutness and clarity in description.
 
-Use Kubler et al. (2018) framework?  Also, should capture datasets from early, middle, and late period for the data portal.
+Aiming for 25% or ~125 datasets as a sample.  I will use a stratified random sample design:  The list of datasets will be divided into
+three levels based on the number of downloads and ~40 datasets from each level (distributed across 4 two-year groups) will be randomly selected and evaluated based on the variables listed below.
+
+Use Kubler et al. (2018) framework? 
+
+
+Or Umbrich et al. (2015)?
 
 The European Open Data Portal Monitor assesses metadata completeness by these variables:
     
-> This measure is an average of the missing metadata across a defined set of fields: licence, author, organisation, date released and date updated. 
+> licence, author, organisation, date released and date updated 
 
 There is also the open government benchmark proposed by [Veljkovi´c et al. (2014)](https://www.sciencedirect.com/science/article/pii/S0740624X14000434)
 
