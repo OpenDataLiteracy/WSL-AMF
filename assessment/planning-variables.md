@@ -17,7 +17,7 @@ Aiming for 25% or ~125 datasets as a sample.  I will use a stratified random sam
 three levels based on the number of downloads and ~40 datasets from each level (distributed across 4 two-year groups) will be randomly selected and evaluated based on the variables listed below.
 
 Use Kubler et al. (2018) framework? 
-
+https://github.com/OpenDataLiteracy/WSL-AMF/blob/master/assessment/Kubler-et-al-2018.JPG
 
 Or Umbrich et al. (2015)?
 
