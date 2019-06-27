@@ -17,4 +17,5 @@ Questions for Will:
 1. Can I make a practice dataset to see what metadata the publishers have access to?
 2. Are the all metadata elements in the report of all datasets available to publishers?
 3. Have you been deleting (or unpublishing datasets?)
-
+4. Possible to get IP Addresses? 
+5. Meeting Tuesday?
