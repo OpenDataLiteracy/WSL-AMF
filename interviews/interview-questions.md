@@ -18,7 +18,8 @@ Sincerely,
 Andrew
 
 
-* What is your experience with the open data portal?
+* To start off with what are your thoughts on open government data, especially in relation to its goals of transparency and efficiency?
+* One dataset you have published is (). What is your experience with the open data portal?
 * Why does your agency publish data to data.wa.gov?
 * How do you choose what data to publish?
 * What challenges do you face publishing data on data.wa.gov?
