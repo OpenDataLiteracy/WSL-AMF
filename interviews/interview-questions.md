@@ -18,12 +18,13 @@ Sincerely,
 Andrew
 
 
-* To start off with what are your thoughts on open government data, especially in relation to its goals of transparency and efficiency?
+* In general, what are your thoughts on open government data, especially in relation to its goals of transparency and efficiency?
 * One dataset you have published is (). What is your experience with the open data portal?
-* Why does your agency publish data to data.wa.gov?
+* Why did your agency start publishing data to data.wa.gov?
 * How do you choose what data to publish?
-* What challenges do you face publishing data on data.wa.gov?
+* Has your experience matched expectations when publishing data on data.wa.gov?
 * Do you know who uses your data?
 * Does your agency use data.wa.gov to find data?
 * When needed, how does your agency obtain information from other agencies?
+* What are your data publishing plans for the next few years? Status quo, more, less?
 * Is there anything else you think I should know?
