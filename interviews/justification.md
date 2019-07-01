@@ -3,16 +3,16 @@
 
 Define project scope and goals:
 1. What is the purpose of conducting interviews? 
-  * To gather inforamtion about the motivations behind the use of the state data portal
+  * *To gather inforamtion about the motivations behind the use of the state data portal*
 2. Are you trying to answer specific questions, if so what are they? 
- * To what extent is the state data portal serving the needs of data publishers?
- * What are the motivations behind data publishing for publishers?
- * To what extent is the state data portal serving the needs of data users?
+ * *To what extent is the state data portal serving the needs of data publishers?*
+ * *What are the motivations behind data publishing for publishers?*
+ * *To what extent is the state data portal serving the needs of data users?*
  * How do publishers or users see their use or needs changing in the near future?
 3. What are key concepts and definitions of key terminology of study? 
- * Open government data, transparency, metadata, API 
+ * *Open government data, transparency, metadata, API* 
 4. Who are stakeholders of your findings?
- * Washington's Chief Privacy Officer, state data portal publishers and users
+ * *Washington's Chief Privacy Officer, state data portal publishers and users*
 
 Sampling: 
 1. Who is eligible to be a participant in your study?
