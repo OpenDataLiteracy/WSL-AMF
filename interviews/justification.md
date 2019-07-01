@@ -17,13 +17,13 @@ Sampling:
 
 Recruiting and Participating: 
 - How will participants be recruited? 
- - *They will be emailed or called.*
+  - *They will be emailed or called.*
 - How will they agree to participate?
- - *If by email, they will send a confirmation email. If by phone, they will give a verbal agreement.  At the beginning of each interview, while being recorded, the participant will be asked to verbally consent to the interview.*
+  - *If by email, they will send a confirmation email. If by phone, they will give a verbal agreement.  At the beginning of each interview, while being recorded, the participant will be asked to verbally consent to the interview.*
 - Where will interviews take place?
- - *Either through video call, phone call, or in a state agency office.*
+  - *Either through video call, phone call, or in a state agency office.*
 - What will you do with the recordings / transcripts? 
- - *They will be stored securely for three years and then destroyed if they are no longer needed.*
+  - *They will be stored securely for three years and then destroyed if they are no longer needed.*
 
 ### Procedures
 
