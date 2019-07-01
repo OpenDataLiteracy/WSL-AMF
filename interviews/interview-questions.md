@@ -3,7 +3,7 @@
 Hello
 
 
-I am the opne data intern at the State Library this summer and I am looking for people who could provide me with some background information on their experience publishing data to the State's open data portal (data.wa.gov). The -  agency  - has published data on the portal.  The goal of my project is to assess the quality of information on the open data portal and understand how state agencies use it. Ultimately, I will make recommendations on how it can be improved as a resource.
+I am the open data intern at the State Library this summer and I am looking for people who could provide me with some background information on their experience publishing data to the State's open data portal (data.wa.gov). The -  agency  - has published data on the portal.  The goal of my project is to assess the quality of information on the open data portal and understand how state agencies use it. Ultimately, I will make recommendations on how it can be improved as a resource.
 
 
 I am contacting you because you have published datasets on the portal on behalf of __ and I am interested in hearing about your experience with the portal and your agency's efforts with open data in general.  Would you be willing to talk with me for about 30 minutes through a video chat?  All responses will be anonymized and kept confidential.  It would be great to talk with you sometime between July 9th and July 16th.  Will you let me know
