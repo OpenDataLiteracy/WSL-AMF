@@ -26,7 +26,7 @@ Recruiting and Participating:
 1. How will participants be recruited? 
   * *They will be emailed or called.*
 2. How will they agree to participate?
-  * *If by email, they will send a confirmation email. If by phone, they will give a verbal agreement.  At the beginning of each interview, while being recorded, the participant will be asked to verbally consent to the interview.*
+  * *If by email, they will send a confirmation email. If by phone, they will give a verbal agreement.  At the beginning of each interview, both before and while being recorded, the participant will be asked to verbally consent to the interview.*
 3. Where will interviews take place?
   * *Either through video call, phone call, or in a state agency office.*
 4. What will you do with the recordings / transcripts? 
