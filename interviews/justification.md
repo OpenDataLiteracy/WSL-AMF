@@ -9,21 +9,21 @@ Define project scope and goals:
 
 Sampling: 
 - Who is eligible to be a participant in your study?
- * Any state agency employee or user of state data portal data who is  18 years old or older. 
+ - *Any state agency employee or user of state data portal data who is  18 years old or older.* 
 - What are criteria for being included in study (e.g. What makes an eligible participant relevant?)
- * Person either publishes data to the state data portal or uses data from the state data portal.
+ - *Person either publishes data to the state data portal or uses data from the state data portal.*
 - How many participants (raw number, in particular category of participants, etc) are necessary to meet project goals?
- * At least seven data publishers and three data users
+ - *At least seven data publishers and three data users*
 
 Recruiting and Participating: 
 - How will participants be recruited? 
- * They will be emailed or called.
+ - *They will be emailed or called.*
 - How will they agree to participate?
- * If by email, they will send a confirmation email. If by phone, they will give a verbal agreement.  At the beginning of each interview, while being recorded, the participant will be asked to verbally consent to the interview.
+ - *If by email, they will send a confirmation email. If by phone, they will give a verbal agreement.  At the beginning of each interview, while being recorded, the participant will be asked to verbally consent to the interview.*
 - Where will interviews take place?
- * Either through video call, phone call, or in a state agency office.
+ - *Either through video call, phone call, or in a state agency office.*
 - What will you do with the recordings / transcripts? 
- * They will be stored securely for three years and then destroyed if they are no longer needed.
+ - *They will be stored securely for three years and then destroyed if they are no longer needed.*
 
 ### Procedures
 
