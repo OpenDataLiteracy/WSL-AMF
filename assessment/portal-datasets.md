@@ -12,6 +12,8 @@ The working list is Published assets that are official and are either public or 
 Derived datasets pull metadata from underlying dataset so do not include those in assessment.
 
 
+[State metadata Standards](https://docs.google.com/viewerng/viewer?url=https://ocio.wa.gov/sites/default/files/public/policies/187_10.docx) - eg origator should be department!
+
 **During dataset upload:**
 
 (GIS uploads may have other options)
