@@ -5,7 +5,7 @@ Cleaned the 24 June dataset:
 1. Fix the create and update date column formats
 2. Delete obvious test datasets (search test and dummy, but watch out for lead test results from Asset_data sheet (the community datasets are still in there and also in the removed datasets sheet)
 3. Remove community datasets, only use official, for PUBLISH sheet
-4. Can't just rely on PUBLIC datasets because there are sume not public ones that are accessed by public assets
+4. Can't just rely on PUBLIC datasets because there are some not public ones that are accessed by public assets
 
 The working list is Published assets that are official and are either public or not. All derived assets have a parent in the list
 
@@ -15,8 +15,6 @@ Derived datasets pull metadata from underlying dataset so do not include those i
 [State metadata Standards](https://docs.google.com/viewerng/viewer?url=https://ocio.wa.gov/sites/default/files/public/policies/187_10.docx) - eg origator should be department!
 
 **During dataset upload:**
-
-(GIS uploads may have other options)
 
 *General notes*
 * Must enter title first thing
@@ -39,17 +37,17 @@ Derived datasets pull metadata from underlying dataset so do not include those i
 * Tags/Keywords- Free text
 * License "Public License Type (if applicable)" - Controlled vocabulary [explanation](https://support.socrata.com/hc/en-us/articles/202950218-Which-licensing-option-should-I-use-)
 * Data Provided By
-* Source Link (web address)
+* Source Link (web address of external site related to dataset)
 * Contact email ("Private field. Only logged in users will see this value")
 * Can add attachments
-* Can add up to 6 notes
-* Period of Time
+* Can add up to 6 notes (I'm unclear how this works- superscript column headings?)
+* Period of Time- What range of dates does the dataset cover
 * Posting Frequency
-* Originator (no explanation) - Some have entered department here. Probably confused where that goes.
-* Metadata Language (no explanation)
+* Originator (no explanation) (identified in [187.10](https://docs.google.com/viewerng/viewer?url=https://ocio.wa.gov/sites/default/files/public/policies/187_10.docx) as the entity responsible for publishing the resource)
+* Metadata Language - (no explanation but should be "English")
 
 *Edit Column Metadata*
-* Can edit Name, Description and API field name
+* Can edit Name, Description and API field name- many fail to add description
 
 ### Elements to Judge Completeness
 
