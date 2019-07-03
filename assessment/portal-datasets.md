@@ -22,8 +22,8 @@ Derived datasets pull metadata from underlying dataset so do not include those i
 * Must enter title first thing
 * Can specify data type for each col.
 * There is an option to 'automate this' which provides python code to either update or replace
-* Can set a col as 'row identifier'
-* There is an option to transform col to geolocation (e.g. coords to address)
+* Can set a column as 'row identifier'
+* There is an option to transform column to geolocation (e.g. address to coords)
 * Default metadata:
   * date created
   * owner (filled from user name)
