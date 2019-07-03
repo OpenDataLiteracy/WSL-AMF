@@ -1,4 +1,4 @@
-## Notes for July 1
+## Notes for July 2
 
 Took train to Olympia
 
