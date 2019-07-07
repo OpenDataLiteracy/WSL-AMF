@@ -18,6 +18,6 @@ Datasets that every state portal should have:
 * Municipal data for cities/towns without their own portal
 
 Other state portals:
-TExas- similar in size to WA. Police data and swimming pools are mosted accessed
-Colorado- lots of categories (incl. one for municipal data). Water dataset are big
-Vermont- few categories, nice landing page.  Salaries is highest downloaded, up there also is heating fuel prices
+- TExas- similar in size to WA. Police data and swimming pools are mosted accessed
+- Colorado- lots of categories (incl. one for municipal data). Water dataset are big
+- Vermont- few categories, nice landing page.  Salaries is highest downloaded, up there also is heating fuel prices
