@@ -14,3 +14,5 @@ These are links to non peer reviewed publications about open data.
 [European Data Portal data usefulness](https://www.europeandataportal.eu/elearning/en/module10/#/id/co-01)  Modules on the five stars of data reusability
 
 [Open data quality- the next shift...](https://blog.okfn.org/2017/05/31/open-data-quality-the-next-shift-in-open-data/)
+
+Stone, Adam, 2018. [Are Open Data Efforts Working?](https://www.govtech.com/data/Are-Open-Data-Efforts-Working.html)
