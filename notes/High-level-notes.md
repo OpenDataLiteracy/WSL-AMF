@@ -14,4 +14,5 @@ Why not publish the list of public datasets as a dataset?
 
 Possible sections to include:
 
-Basic analytics for portal- unique visitors, etc.
+* Basic analytics for portal- unique visitors, etc.
+* Dataset Removal options (from Nic): [NY State](https://data.ny.gov/City-Government/NYC-Open-Data-Plan-2015-List-Of-Datasets-Removed/unw7-yyit)  [NYC](https://data.cityofnewyork.us/dataset/Dataset-Removals/tm5c-buy3)
