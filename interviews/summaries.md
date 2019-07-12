@@ -14,7 +14,8 @@
 
 **Salmon Recovery/Recreation and Conservation** --Highly downloaded datasets, metadata is mediocre, sophisticated user--
 - Use the portal as an authoratative source for datasets (rather than wondering if an emailed dataset is the right version)
-- Request other agencies to put their data on portal and maintain it (e.g. Ecology)
+- They publish data on standard metrics for their work- not much guesswork is needed
+- Request other agencies to put their data on portal and maintain them (e.g. Ecology)
 - They know other agencies use their data and they are happy to not have to hear from them for data requests
 - They use data.wa.gov to find spatial data and legacy datasets (e.g. old data that was not appended with new data)
 - They are waiting for PowerBI Online to launch and will switch to that from Tableau- Want all their data to be live
