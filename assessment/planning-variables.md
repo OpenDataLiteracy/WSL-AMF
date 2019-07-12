@@ -29,8 +29,12 @@ The complete catalog, or just the datasets, can be assessed for the following:
 - Number of links to related content (views etc.)
 - Total views of dataset plus related content
 
+- Available elements in Socrata: License, Categories, Description, Data Provided By, Row Label, Keywords, Source Link, Contact Email, Period of Time, Posting Frequency, Originator, Metadata Language
 
-### Datasets Level Assessment
+- Core Elements outside the automatic or required ones in Socrata: Description, Category, Provided By, License
+
+
+### Dataset Level Assessment
 
 A sample of datasets will be used to assess more granular aspects such as aboutness and clarity in description.
 
@@ -56,11 +60,22 @@ three levels based on the number of downloads and ~40 datasets from each level (
  - Number of Downloads (<100, >101 but <1500, >1500)
  - Year Created (2012/2013, 2014/2015, 2016,2017, 2018,2019)
 
-Assessment: Assess relevant variables on a 4 point scale: 0 = not present, 1 = no, 2 = somewhat, 3 = yes
+- Title Understandable (1-No, 2-Yes)
+- Description Understandable
+- Each Row is…
+- Open Data Star Level
+- DataDictionary (0=none, 1=not understandable, or partial, 2=yes, understandable)
+- Spatial
+- Temporal (0=none, 1=there but unclear, 2=all good)
+- Dataset Retreivable (0=no, 1=yes)
+- Resource Retreivable
+- Data Understandable (Are the values in the cell understandable without a dictionary?=2 (money, counts, county names, etc) Ignore missing contextual metadata (e.g. okay if you don't know what the money value is for). 1=no, 0=missing)
+- Cell Accuracy  (0=more than 10 col have acc issues, 1=4-10 col, 2=1-3 col, 3=all accurate)
+- Curation Needs  (0=more than 10 col need curation, 1=4-10 col, 2=1-3 col, 3=None needed)
+- Currancy/usefulness (0=old/needs update, 1 = old/still useful (like data about an event), 2= uptodate/useful) 
+- Belongs on Portal? 1=yes, 0=no
+- Curation Notes
 
-1. Check to make sure dataset is still published
-2. Title Understandable?
-3. Description Helpful?
-4. Keywords Useful?
+
 
 ### Questions
