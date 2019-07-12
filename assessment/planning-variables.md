@@ -23,11 +23,11 @@ Also think about the [5-stars](https://www.europeandataportal.eu/elearning/en/mo
 
 The complete catalog, or just the datasets, can be assessed for the following:
 
-- Percent overall metadata completeness
-- Percent with a description
+- Metadata completeness
 - Download statistics by publisher
-- Number of links to related content (views etc.)
-- Total views of dataset plus related content
+- Downloads versus Number of views
+- Number of links to external sites for accessing data
+- Summary statistics for category, downloads, agencies
 
 - Available elements in Socrata: License, Categories, Description, Data Provided By, Row Label, Keywords, Source Link, Contact Email, Period of Time, Posting Frequency, Originator, Metadata Language
 
@@ -38,10 +38,11 @@ The complete catalog, or just the datasets, can be assessed for the following:
 
 A sample of datasets will be used to assess more granular aspects such as aboutness and clarity in description.
 
-Aiming for 25% or ~125 datasets as a sample.  I will use a stratified random sample design:  The list of datasets will be divided into
-three levels based on the number of downloads and ~40 datasets from each level (distributed across 4 two-year groups) will be randomly selected and evaluated based on the variables listed below.
+Aiming for 25% or ~125 datasets as a sample.  I will use a stratified random sample design:  The list of datasets will be divided into three levels based on the number of downloads and ~40 datasets from each level (distributed across 4 two-year groups) will be randomly selected and evaluated based on the variables listed below.
 
 ### Dataset Variables
+
+Seems like these would be good to look at:
 
 - File format
 - Publishing Agency
