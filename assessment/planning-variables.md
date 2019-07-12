@@ -57,9 +57,8 @@ three levels based on the number of downloads and ~40 datasets from each level (
 ### Sample of datasets for assessment
 
 Took 115 datasets from 12 groupings: 
- - Number of Downloads (<100, >101 but <1500, >1500)
- - Year Created (2012/2013, 2014/2015, 2016,2017, 2018,2019)
- 
+* Number of Downloads (<100, >101 but <1500, >1500)
+* Year Created (2012/2013, 2014/2015, 2016,2017, 2018,2019)
 
 - Title Understandable (1-No, 2-Yes)
 - Description Understandable
