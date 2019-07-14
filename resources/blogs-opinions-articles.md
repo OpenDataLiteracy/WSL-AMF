@@ -16,3 +16,10 @@ These are links to non peer reviewed publications about open data.
 [Open data quality- the next shift...](https://blog.okfn.org/2017/05/31/open-data-quality-the-next-shift-in-open-data/)
 
 Stone, Adam, 2018. [Are Open Data Efforts Working?](https://www.govtech.com/data/Are-Open-Data-Efforts-Working.html)
+
+### Removing datasets
+
+[Best practices of open data](https://trello.com/b/aAGm3KaR/open-data-best-practices) Look under preservation column.  One card says, note identifier and make it clear why it was remove.
+
+### General Docuements
+[Montgomery County Open Data guide](https://www.montgomerycountymd.gov/olo/resources/files/2013-7bestpracticesinopendatainitiatives.pdf)  Has examples of apps using open data.  From 2013
