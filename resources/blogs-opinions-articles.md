@@ -21,5 +21,7 @@ Stone, Adam, 2018. [Are Open Data Efforts Working?](https://www.govtech.com/data
 
 [Best practices of open data](https://trello.com/b/aAGm3KaR/open-data-best-practices) Look under preservation column.  One card says, note identifier and make it clear why it was remove.
 
+[NYC Open Data How to remove a dataset](https://opendata.cityofnewyork.us/wp-content/uploads/2018/02/Open-Data-Removals-Process-and-Guidelines.pdf)  GREAT SOURCE
+
 ### General Docuements
 [Montgomery County Open Data guide](https://www.montgomerycountymd.gov/olo/resources/files/2013-7bestpracticesinopendatainitiatives.pdf)  Has examples of apps using open data.  From 2013
