@@ -24,7 +24,7 @@ Vetrò, A., Canova, L., Torchiano, M., Minotas, C. O., Iemma, R., & Morando, F. 
 
 **Other Academic Sources**
 
-[Kucera et al. 2015] - overview of open data publishing
+[Kucera et al. 2015](http://ceur-ws.org/Vol-1343/paper5.pdf) - overview of open data publishing
 
 **Open Data Guidelines and Reports**
 
