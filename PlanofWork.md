@@ -86,6 +86,7 @@ I will be in regular contact with Kathleen Sullivan and OD. I will store all fil
 
 ## Changes to the work plan
 *Document date and change of work plan here.*
+July 15- added a bullet to 'Time Allowing'
 
 ## Communication
 
