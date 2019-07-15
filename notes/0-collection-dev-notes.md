@@ -4,4 +4,6 @@
 
 I should interview publishers who are heavy users but also interview those who could publish what is known as [popular data](https://sunlightfoundation.com/2018/10/16/results-from-analyzing-public-record-requests/)
 
+[OCIO suggestions](https://ocio.wa.gov/programs/open-data/guidance-what-data-publish) - Types of data suggested for publication
+
 Probably things like state highway accident reports(?), State permits, complaints, police reports, finance, elections, and education 
