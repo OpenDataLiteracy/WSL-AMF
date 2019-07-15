@@ -31,6 +31,7 @@ Any editing, remediation, publishing, or curation of datasets.
 ### Time allowing
 - A site visit to one of the libraries for which the State Library is providing open data consulting services. This may involve too much travel but could be useful informing recommendations for the state data portal.
 - Investigate how to manage the transition from active datasets to archived datasets.
+- Create a Jupyter Notebook (or similar) to visualize Socrata asset summary statistics
 
 ## Deliverables    
 *What will this project produce? This should include items like reports, best practices, software, data, metadata schemas, models or figures, and documentation. See the two types of deliverables below:*
