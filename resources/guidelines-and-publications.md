@@ -22,6 +22,9 @@ Veljkovic et Al. (n.d.). Municipal Open Data Challenges. In CeDEM11. Retrieved [
 
 Vetrò, A., Canova, L., Torchiano, M., Minotas, C. O., Iemma, R., & Morando, F. (2016). Open data quality measurement framework: Definition and application to Open Government Data. Government Information Quarterly, 33(2), [325–337.](https://www.sciencedirect.com/science/article/pii/S0740624X16300132) - Identifies assessment metrics specifically for OGD.  Tests effectiveness on a high quality portal and low quality portal. However, small sample size.  Also, some metrics are very subjective.  Ran 14 tests and did not adjust p-value.  Found that understandability was a big problem.  Has a nice table showing how each metric was computed.  They did what I'm going to do: automated for some, manual data collection for other.
 
+**Other Academic Sources**
+
+[Kucera et al. 2015] - overview of open data publishing
 
 **Open Data Guidelines and Reports**
 
