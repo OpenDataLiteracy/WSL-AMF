@@ -41,3 +41,5 @@ As always, a system would need to work within the constraints of budgetary restr
 Possible citations for [2]:
 
 [Set appropriately ambitious timeline](https://opendatapolicyhub.sunlightfoundation.com/guidelines/27-timelines/)
+
+[open by default](https://www.gov.uk/government/publications/open-data-charter/g8-open-data-charter-and-technical-annex)
