@@ -43,3 +43,17 @@
 - Plan to continue updating their data.
 - Would like to learn more about putting visualizations on their website using data from data.wa.gov
 - Are interested in regular open data updates from OCIO, and suggestions on how to use portal and data.
+
+**Office of the Superindendent** --Started using portal in last month, sophisticated visualizations on website--
+- Uploaded about 20 years of data within last month.  Most of it pulled from their old reportcard site.
+- Plan on using portal as a repository and use their Tableau server as source data for website visualizations.  Portal is ADA and is accessible
+- Currently have lots of datasets individual by year, eventually plan on combining and updating annually.
+- They say Socrata works fine for individual dataset uploads, hard to do multiple at once.
+- Put data up that they are required to make available or can make public
+- Users are district staff, university researchers, nonprofits (especially ones applying for grants and needing data).
+- They used to send users to old reportcard site, Now use data.wa.gov but find the search is very difficult.  Have to send spcific URL
+- Suggest search could be better if able to search by agency, and if datasets could be marked as 'certified'- other agencies put up some of their data and it was an old version.
+- They do not really use the portal to get data from other agencies
+- In the future they hope to consolidate datasets rather than add more
+- Also hope to send users to their website rather than the portal- portal visualizations and search are too limiting
+- Would love to see some curation to assist in comparing data from different levels, e.g. county level to district level.
