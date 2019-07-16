@@ -42,11 +42,14 @@ Vetrò, A., Canova, L., Torchiano, M., Minotas, C. O., Iemma, R., & Morando, F. 
 [Showell ODL project](https://github.com/OpenDataLiteracy/CityOfSeattle-2017/blob/master/SeattleMetadataStandards.pdf) - An analysis of City of Seattle metadata.
 
 **Freedom of Information Act Research**
+
 [Sunlight Foundation](https://sunlightfoundation.com/2018/10/09/research-cities-save-time-on-records-requests-by-doing-open-data-right/) FOIA's decrease if open data is done right. [Full Report](http://sunlightfoundation.com/wp-content/uploads/2018/10/alena-white-paper-PDF.pdf)
 
 **Example open data policies**
 
-[Witchita](https://opendatapolicyhub.sunlightfoundation.com/collection/wichita-ks-2016-09-08/?guideline=permanent-access)
+[Witchita- permanent access](https://opendatapolicyhub.sunlightfoundation.com/collection/wichita-ks-2016-09-08/?guideline=permanent-access)
+
+[Witchita policy](https://www.wichita.gov/IT/ITDocuments/AR%208.4%20IT%20Open%20Data%20Policy.pdf)
 
 
 **Why save old data**
