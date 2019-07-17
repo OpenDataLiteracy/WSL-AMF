@@ -7,7 +7,7 @@ Idea:
 3. But doing so could affect unknown users and violates one of the tenets of open data: publish for permanence
 4. So what to do?
 
-
+### The Complicated Problem of Dataset Removal
 
 Open government data portals can be a terrific resource for diverse public sector information in a structured format —water quality test results, licensing data for contractors and healthcare providers, lobbyist spending, et cetera. However, these data sets often vary widely in quality and utility. This is especially true where agencies publish directly to the portal without a central entity curating each dataset (i.e. unmediated deposits), leading to lots of data that may or may not be what people are looking for.  Although a decentralized approach to running an open data portal likely lowers costs and other barriers for data publishing, it also means that the steward of the open data portal needs to periodically remove datasets in order to maintain a more accessible collection for the public and other users. So, if some datasets need to be removed, how does a curator document the removal process in a transparent way??
 
