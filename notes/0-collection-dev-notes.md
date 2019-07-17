@@ -6,6 +6,11 @@ I should interview publishers who are heavy users but also interview those who c
 
 [OCIO suggestions](https://ocio.wa.gov/programs/open-data/guidance-what-data-publish) - Types of data suggested for publication
 
+**WA Specific Potential Data** : Salmon (population, hatcheries, habitat), Forestry, Beaches (?)...
+
+
+**Users** : Agencies, Reporters, Nonprofits, Some citizens
+
 
 **Possible Curation Steps**
 
