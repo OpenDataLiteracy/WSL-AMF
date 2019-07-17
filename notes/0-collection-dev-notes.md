@@ -30,7 +30,7 @@ I should interview publishers who are heavy users but also interview those who c
 9. Standardize department names and choose either 'data_provided_by' or 'Originator'
 10. Improve Titles and Descriptions
  * Include spatial and temporal indicators, no acronyms, description = why and how
-11. Write better prompts for metadata elements in upload sections- help users add appropriate metadata.
+11. Write better prompts for metadata elements in upload sections- help users add appropriate metadata. May not be possible in Socrata.
 
 *The Bulletin Board Strategy*
 
