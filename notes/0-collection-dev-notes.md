@@ -15,7 +15,7 @@ I should interview publishers who are heavy users but also interview those who c
 2. Create dataset to track deletions/removals
 3. Create [Issue board](https://gitlab.com/wapdc/OpenData-Program/wikis/home) for feedback
 4. Identify specific needed datasets (perhaps unique to WA)
-5. Create a use guide for agencies: How others user portal, possible uses, quick tips on uploading and metadata
+5. Create a use guide for agencies: How others use portal, possible new uses, quick tips on uploading and adding metadata
 6. Track summary statistics over time for portal (maybe use Jupyter Notebook to snapshot statistics and build dataset?)
 
 *Longer Term*
