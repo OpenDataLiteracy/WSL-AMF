@@ -25,7 +25,7 @@ I should interview publishers who are heavy users but also interview those who c
 
 *Longer Term*
 
-7. Identify current usage for oldest datasets (pre-2015)- Do the datasets still feed to active websites, etc?
+7. Identify current usage for oldest datasets (pre-2015)- Do the datasets still feed to active websites, etc? This probably involves contacting the dataset owners
 8. Consolidate distinct year datasets on the same topic
 9. Standardize department names and choose either 'data_provided_by' or 'Originator'
 10. Improve Titles and Descriptions
