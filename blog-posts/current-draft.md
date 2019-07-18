@@ -28,19 +28,9 @@ There has been very little focus on this topic in research or literature. [New Y
 
 This is a thorough solution, but it requires a lot of human labor and only works when a portal is curated by a central department.  Additionally, depending on the deletion process, deleted datasets may never be recoverable if they are ever needed again.
 
-An ideal solution for a more decentralized portal would be an automated system that updates the metadata with a reason for deletion and compresses and archives each dataset upon deletion by the dataset owner.  Text on the portal's search results page could prompt users to rerun their search and include records of deleted datasets if a user's original search did not provide expected results.
+An ideal solution for a more decentralized portal would be an automated system that updates the metadata with a reason for deletion and compresses and archives each dataset upon deletion by the dataset owner.  Text on the portal's search results page could prompt users to rerun their search and include records of deleted datasets if a user felt that their original search did not provide expected results.
 
-Socrata and CKAN, two popular open government data portal platforms, both allow the deletion and recovery of datasets but neither provides a user-friendly tracking process.  Until an automated, user-focused solution appears, what can a portal steward do to maintain transparency and access while effectively removing or archiving datasets?
-
-If storage is not a limiting factor, a portal curator could do the following:
-1.	Request feedback from the dataset owner about upcoming changes to their dataset
-2.	Replace the original dataset with an identical, but compressed version, or upload compressed format as a new version
-3.	Note in the description why the data is being archived and where better data is located
-4.	Recategorize the dataset to ‘Archived’ or something similar in the 'Category' metadata element.
-
-This solution would indicate to a user the status of the dataset both by the category of ‘Archived’ and the compressed data format, while also indicating why the dataset was archived and possibly where better data is located.
-
-As always, a system would need to work within the constraints of budgetary restrictions and portal curator time.  Developing something like this system will likely be one of my recommendations for how the State Library can help curate the Washington State open data portal, hopefully to create a system that remains both functional and efficient for data administrators and users alike.
+[Socrata](https://www.tylertech.com/products/socrata) and [CKAN](https://ckan.org/), two popular open government data portal platforms, both allow the deletion and recovery of datasets but neither provides a user-friendly tracking process.  Until an automated, user-focused solution appears, portal curators will need to find ways to track removals in a transparent way. Developing a removal policy and removal procedures will likely be one of the core recommendations for how the State Library can help curate the Washington State open data portal.
 
 
 [1] The ODL program is funded by the Institute of Museum and Library Services and works towards creative and realistic ways to help government agencies and libraries create or work with open data. 
