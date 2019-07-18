@@ -10,7 +10,7 @@ Cleaned the 24 June dataset:
 The working list is Published assets that are official and are either public or not. All derived assets have a parent in the list
 
 JSON to CSV: https://medium.com/@gabrielpires/how-to-convert-a-json-file-to-csv-python-script-a9ff0a3f906e
-Use this to get JSON file with all metadata: https://data.wa.gov/views/asjc-htyz.json
+Old python code to get metadata: https://github.com/josephlei/socrata-meta
 
 Derived datasets pull metadata from underlying dataset so do not include those in assessment.
 
