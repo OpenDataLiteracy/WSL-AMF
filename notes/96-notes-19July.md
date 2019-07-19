@@ -1,4 +1,4 @@
-Notes July 19
+## Notes July 19
 
 Interviewed WSAC yesterday and also finished assessing individual datasets.
 
