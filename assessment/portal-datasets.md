@@ -13,6 +13,9 @@ Automatic ways to retrieve metadata:
 
     JSON to CSV: https://medium.com/@gabrielpires/how-to-convert-a-json-file-to-csv-python-script-a9ff0a3f906e
     Old python code to get metadata: https://github.com/josephlei/socrata-meta
+    
+    Socrata Metadata API (For Read and Write): https://socratametadataapi.docs.apiary.io/#introduction/available-metadata/all-available-fields
+    Socrata Discovery API: https://socratadiscovery.docs.apiary.io/#reference/0/find-by-domain  Can search socrata universe by almost any field, even column name.  But it doesn't return column descriptions.
 
     >API for basic metadata: data.wa.gov/api/dcat.json
     >All Socrata dataset metadata (not record metadata): https://data.wa.gov/api/views/metadata/v1/{dataset-uid}
