@@ -57,3 +57,27 @@
 - In the future they hope to consolidate datasets rather than add more
 - Also hope to send users to their website rather than the portal- portal visualizations and search are too limiting
 - Would love to see some curation to assist in comparing data from different levels, e.g. county level to district level.
+
+**Student Achievement Council** -- Just started publishing --
+- Started publishing in January, used to make data available as excel files on website
+- Started with a dataset frequently requested and with few privacy concerns: College bound scholarship rates
+- Excel files are source for Tableau dashboards
+- Really liked that portal could take in a dataset and make it an open resource very easily.
+- Did get some complaints about difficulty using portal- learning curve. E.g. only seeing sample of data in preview and wondering if that was it.
+- Future plans unclear.  Data champion is no longer at WSAC.  Had planned on putting up 30-40 more datasets.
+- Interviewee uses the portal all the time to get data, from OPSI, and others.  Uses geo.wa.gov too.  Wishes some other agencies would use it too.
+- Media is a major user of WSAC data (college and scholarship rates)
+- Wishes the portal had a data suppression feature (e.g. hide any row with fewer than 10 in given columns)
+- Initially difficult for WSAC to decide who would run the open data program (IT, communications, external affairs, etc)
+
+**followthemoney.org** --User of disclosure data--
+- Thinks WA portal (specifically PDC data) is among the best
+- Gave her feedback on some needed columns and PDC did it immediately.
+- Likes that ALL the data from the forms is available, rather than the agency choosing what they think are important.
+- In CA she has to request the data and they send a disk, others, the data is only partially complete compared to the submitted disclosure forms.
+- She likes the filtering abilities of the Socrata platform.
+- Downloads data directly rather than use API
+- Use depends on elections each year, expects to download Campaign Finance data 6-8 times next year.   Lobbiest data once a year and independet spending data ~3 times a year.
+- At some portals she has to compare an actual submitted disclusre report to the corresponding data in the data file in order to figure out what some columns mean ---> importance of good metadata.
+- Wishes that she could select data by filer ID rather than election year
+
