@@ -14,8 +14,9 @@ Automatic ways to retrieve metadata:
     JSON to CSV: https://medium.com/@gabrielpires/how-to-convert-a-json-file-to-csv-python-script-a9ff0a3f906e
     Old python code to get metadata: https://github.com/josephlei/socrata-meta
 
-    api for basic metadata: data.wa.gov/api/dcat.json
-    All metadata for any given dataset uid (put in the identifier): https://data.wa.gov/views/{dataset-uid}.json
+    >API for basic metadata: data.wa.gov/api/dcat.json
+    >All Socrata dataset metadata (not record metadata): https://data.wa.gov/api/views/metadata/v1/{dataset-uid}
+    >All metadata for dataset and records (put in the identifier): https://data.wa.gov/views/{dataset-uid}.json
 
 
 Derived datasets pull metadata from underlying dataset so do not include those in assessment.
