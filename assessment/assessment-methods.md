@@ -1,7 +1,15 @@
 ## Portal and Dataset Assessment Methods
 
-
 ### Portal Assessment
+
+Cleaned the 24 June dataset:
+
+1. Fix the create and update date column formats
+2. Delete obvious test datasets (search test and dummy, but watch out for lead test results from Asset_data sheet (the community datasets are still in there and also in the removed datasets sheet)
+3. Remove community datasets, only use official, for PUBLISH sheet
+4. Can't just rely on PUBLIC datasets because there are some not public ones that are accessed by public assets
+
+The working list is Published assets that are official and are either public or not. All derived assets have a parent in the list
 
 The complete catalog, or just the datasets, can be assessed for the following:
 
@@ -19,6 +27,8 @@ The complete catalog, or just the datasets, can be assessed for the following:
 ### Dataset Level Assessment
 
 A sample of datasets will be used to assess more granular aspects such as aboutness and clarity in description.
+
+I used a set from the asset list downloaded 18June
 
 Aiming for 25% or ~125 datasets as a sample.  I will use a stratified random sample design:  The list of datasets will be divided into three levels based on the number of downloads and ~40 datasets from each level (distributed across 4 two-year groups) will be randomly selected and evaluated based on the variables listed below.
 
