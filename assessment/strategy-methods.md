@@ -65,20 +65,20 @@ Year Created (2012/2013, 2014/2015, 2016,2017, 2018,2019)
 
 Assessment Elements:
 
-- Title Understandable (1-No, 2-Yes)
-- Description Understandable (0-absent, 1-No, 2-Yes)
+- Title Understandable (1-No, 2-Yes) - contains subject and important qualifiers (e.g. "Barrier Removals 01/31/12" = 1; "Lobbiest 
+- Description Understandable (0-absent, 1-No, 2-Yes) - explains purpose of dataset
 - Each Row is… (0=none, 1=not understandable, or partial, 2=yes, understandable)
 - Open Data Star Level
 - DataDictionary (0=none, 1=not understandable, or partial, 2=yes, understandable)
-- Spatial (0=none, 1=there but unclear, 2=all good)
-- Temporal (0=none, 1=there but unclear, 2=all good)
+- Spatial (0=none, 1=there but unclear, 2=all good) - spatial spread of data indicated somewhere
+- Temporal (0=none, 1=there but unclear, 2=all good) - either values in temporal element, title or description. give 1 if value is unclear or conflicts with other metadata
 - Dataset Retreivable (0=no, 1=yes)
 - Resource Retreivable (0=no, 1=yes)
 - Data Understandable (Are the values in the cell understandable without a dictionary?=2 (money, counts, county names, etc) Ignore missing contextual metadata (e.g. okay if you don't know what the money value is for). 1=no, 0=missing)
-- Cell Accuracy  (0=more than 10 col have acc issues, 1=4-10 col, 2=1-3 col, 3=all accurate)
-- Curation Needs  (0=more than 10 col need curation, 1=4-10 col, 2=1-3 col, 3=None needed)
+- Cell Accuracy  (0=more than 10 col have acc issues, 1=4-10 col, 2=1-3 col, 3=all accurate) - same values spelled the same, consistancy in format within column
+- Curation Needs  (0=more than 10 col need curation, 1=4-10 col, 2=1-3 col, 3=None needed) - summed colmns removal, summed rows removal, untidy data format, type formatting, special characters.
 - Currancy/usefulness (0=old/needs update, 1 = old/still useful (like data about an event), 2= uptodate/useful) 
-- Belongs on Portal? 1=yes, 0=no
+- Belongs on Portal? 1=yes, 0=no - is it data? more usable as a static webpage?
 - Curation Notes
 
 
