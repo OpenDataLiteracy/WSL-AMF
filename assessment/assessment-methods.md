@@ -1,23 +1,5 @@
-## Planning Assessment Strategy
+## Portal and Dataset Assessment Methods
 
-What others have done:
-
-Use Kubler et al. (2018) metadata assessment framework? 
-https://github.com/OpenDataLiteracy/WSL-AMF/blob/master/assessment/Kubler-et-al-2018.JPG
-
-> Existence, conformance, retrievability, accuracy, open data
-
-Or Umbrich et al. (2015) portal assessment? https://github.com/OpenDataLiteracy/WSL-AMF/blob/master/assessment/Umbrich-et-al-2015.JPG
-
-> Retrievability, usage, completeness, accuracy, openness and contactability.  
-
-The European Open Data Portal Monitor assesses metadata completeness by these variables:
-    
-> licence, author, organisation, date released and date updated 
-
-There is also the open government benchmark proposed by [Veljkovi´c et al. (2014)](https://www.sciencedirect.com/science/article/pii/S0740624X14000434)
-
-Also think about the [5-stars](https://www.europeandataportal.eu/elearning/en/module10/#/id/co-01)
 
 ### Portal Assessment
 
