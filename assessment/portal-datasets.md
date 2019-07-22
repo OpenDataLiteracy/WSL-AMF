@@ -21,6 +21,7 @@ Automatic ways to retrieve metadata:
     >API for basic metadata: data.wa.gov/api/dcat.json
     >All Socrata dataset metadata (not record metadata): https://data.wa.gov/api/views/metadata/v1/{dataset-uid}
     >All metadata for dataset and records (put in the identifier): https://data.wa.gov/views/{dataset-uid}.json
+    >ALL Asset ALL metadata: http://api.us.socrata.com/api/catalog/v1?limit=2000&domains=data.wa.gov
 
 
 Derived datasets pull metadata from underlying dataset so do not include those in assessment.
