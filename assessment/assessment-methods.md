@@ -65,12 +65,11 @@ Year Created (2012/2013, 2014/2015, 2016,2017, 2018,2019)
 
 Assessment Elements:
 
-- Title Understandable (1-No, 2-Yes) - contains subject and important qualifiers (e.g. "Barrier Removals 01/31/12" = 1; "Lobbiest 
-- Description Understandable (0-absent, 1-No, 2-Yes) - explains purpose of dataset
+- Title Understandable (1-No, 2-Yes) - contains subject, context and important qualifiers (e.g. "Snake Barriers Removed" = 1, containes subject and qualifier but missing context; "Washington Fuel Tax Active Licensees" = 2, an informative title. 
+- Description Understandable (0-absent, 1-No, 2-Yes) - explains purpose and history of dataset.  If missing either of those, 1.
 - Each Row is… (0=none, 1=not understandable, or partial, 2=yes, understandable)
-- Open Data Star Level
 - DataDictionary (0=none, 1=not understandable, or partial, 2=yes, understandable)
-- Spatial (0=none, 1=there but unclear, 2=all good) - spatial spread of data indicated somewhere
+- Spatial (0=none, 1=there but unclear, 2=all good) - spatial spread of data indicated somewhere (e.g. "Washington Fuel Tax Active Licensees")
 - Temporal (0=none, 1=there but unclear, 2=all good) - either values in temporal element, title or description. give 1 if value is unclear or conflicts with other metadata
 - Dataset Retreivable (0=no, 1=yes)
 - Resource Retreivable (0=no, 1=yes)
