@@ -61,3 +61,14 @@ Derived datasets pull metadata from underlying dataset so do not include those i
 * Originator (no explanation)
 * Metadata Language (no explanation)
 
+
+### Figures needed:
+
+**Portal Assessment**
+| Subject | Type |
+|---------|------|
+Types (dataset, chart, etc) | pie or block
+Categories | pie or block
+Available metadata elements filled, % datasets | bar
+Core metadata elements filled, % datasets | bar
+
