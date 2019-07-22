@@ -1,15 +1,26 @@
 ## Assessment of all assets notes
 
-Cleaned the 24 June dataset:
 
-1. Fix the create and update date column formats
-2. Delete obvious test datasets (search test and dummy, but watch out for lead test results from Asset_data sheet (the community datasets are still in there and also in the removed datasets sheet)
-3. Remove community datasets, only use official, for PUBLISH sheet
-4. Can't just rely on PUBLIC datasets because there are some not public ones that are accessed by public assets
+### What others have done:
 
-The working list is Published assets that are official and are either public or not. All derived assets have a parent in the list
+Use Kubler et al. (2018) metadata assessment framework? 
+https://github.com/OpenDataLiteracy/WSL-AMF/blob/master/assessment/Kubler-et-al-2018.JPG
 
-Automatic ways to retrieve metadata:
+> Existence, conformance, retrievability, accuracy, open data
+
+Or Umbrich et al. (2015) portal assessment? https://github.com/OpenDataLiteracy/WSL-AMF/blob/master/assessment/Umbrich-et-al-2015.JPG
+
+> Retrievability, usage, completeness, accuracy, openness and contactability.  
+
+The European Open Data Portal Monitor assesses metadata completeness by these variables:
+    
+> licence, author, organisation, date released and date updated 
+
+There is also the open government benchmark proposed by [Veljkovi´c et al. (2014)](https://www.sciencedirect.com/science/article/pii/S0740624X14000434)
+
+Also think about the [5-stars](https://www.europeandataportal.eu/elearning/en/module10/#/id/co-01)
+
+### Automatic ways to retrieve metadata:
 
     JSON to CSV: https://medium.com/@gabrielpires/how-to-convert-a-json-file-to-csv-python-script-a9ff0a3f906e
     Old python code to get metadata: https://github.com/josephlei/socrata-meta
