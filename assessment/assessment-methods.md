@@ -2,7 +2,7 @@
 
 ### Portal Assessment
 
-Cleaned the 24 June dataset:
+Cleaned the 24 June csv dataset (downloaded from data.wa.gov- this is a private dataset) :
 
 1. Fix the create and update date column formats
 2. Delete obvious test datasets (search test and dummy, but watch out for lead test results from Asset_data sheet (the community datasets are still in there and also in the removed datasets sheet)
@@ -53,10 +53,10 @@ Took 115 datasets from 12 groupings:
 
 Number of Downloads (<100, >101 but <1500, >1500)
 
-Year Created (2012/2013, 2014/2015, 2016,2017, 2018,2019)
+Year Created (2012/2013, 2014/2015, 2016/2017, 2018/2019)
 
 Assessment Elements:
-
+Total of 25 points possible.
 - Title Understandable (1-No, 2-Yes) - contains subject, context and important qualifiers (e.g. "Snake Barriers Removed" = 1, containes subject and qualifier but missing context; "Washington Fuel Tax Active Licensees" = 2, an informative title. 
 - Description Understandable (0-absent, 1-No, 2-Yes) - explains purpose and history of dataset.  If missing either of those, 1.
 - Each Row is… (0=none, 1=not understandable, or partial, 2=yes, understandable)
