@@ -75,5 +75,5 @@ Views | All | Box plot, by type
 Categories | Datasets | pie or block
 Available metadata elements filled, % datasets | Datasets | bar
 Core metadata elements filled, % datasets | Datasets | bar
-% with links | Datasets | Text?
-
+% with links | Datasets | Text? Proportion bar?
+% with dictionary | Datasets | Text? Proportion bar?
