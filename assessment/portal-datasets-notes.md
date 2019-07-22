@@ -65,6 +65,7 @@ Derived datasets pull metadata from underlying dataset so do not include those i
 ### Figures needed:
 
 **Portal Assessment**
+
 | Subject | Type |
 |---------|------|
 Types (dataset, chart, etc) | pie or block
