@@ -16,6 +16,7 @@ Automatic ways to retrieve metadata:
     
     Socrata Metadata API (For Read and Write): https://socratametadataapi.docs.apiary.io/#introduction/available-metadata/all-available-fields
     Socrata Discovery API: https://socratadiscovery.docs.apiary.io/#reference/0/find-by-domain  Can search socrata universe by almost any field, even column name.  But it doesn't return column descriptions.
+    [City of Austin Open Data](https://medium.com/open-austin/enhancing-the-city-of-austins-open-data-with-digital-citations-7fc2e9cca45) - Contains code that pulls all asset data from Socrata for a portal.
 
     >API for basic metadata: data.wa.gov/api/dcat.json
     >All Socrata dataset metadata (not record metadata): https://data.wa.gov/api/views/metadata/v1/{dataset-uid}
