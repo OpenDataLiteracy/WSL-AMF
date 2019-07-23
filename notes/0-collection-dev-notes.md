@@ -11,6 +11,7 @@ I should interview publishers who are heavy users but also interview those who c
 
 **Users** : Agencies, Reporters, Nonprofits, Some citizens
 
+**Datasets that should be there**: Could get top three datasets from every portal using discovery API
 
 **Possible Curation Steps**
 
