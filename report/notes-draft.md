@@ -16,3 +16,22 @@
 **Assessment**
 
 * Methodology
+* Results
+
+**Interviews**
+
+* Methadology
+* Results
+
+**Curation Recommendations**
+
+* Policy and Procedure for dataset removal
+* Remove test and dummy datasets
+* Standardize title, description, department rules
+* Create a way for users to submit tickets
+* Identify missing datasets to seek out
+
+**Literature Review**
+
+**Appendix - Assessment Tools**
+* Python scripts
