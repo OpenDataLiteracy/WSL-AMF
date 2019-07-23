@@ -8,6 +8,8 @@
 
 [Neumaier et al 2017 Automated method of assessing metadata](http://doi.acm.org/10.1145/2964909)
 
+[Bright et al. 2015](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2613853)- Tackles the problem of black box use of OGD. Cites something suggesting privatce citizen use of data is likely small, proxy organizations are the key.  They assessed metadata richness by number of tags and length of description. This paper has good references but I think their work is flawed- does not actually identify reasons for downloads, only relationships b/t downloads and other factors, correlation, no causation!
+
 *From Nic*
 
 Data quality assessment of maintenance reporting procedures. (2016). Expert Systems with Applications, 63, [145–164.](https://doi.org/10.1016/j.eswa.2016.06.043) -Very similar to Neumaier et al but with business branch maintenance reporting. Technical.
