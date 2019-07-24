@@ -1,5 +1,8 @@
 ## Notes July 24
 
+Took train down to Tumwater, getting ride back with Kathleen
+Attended the Secretary of State staff appreciation picnic as well as the State Library all staff meeting.
+
 
 **Update on activities**
 
