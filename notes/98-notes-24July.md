@@ -19,7 +19,7 @@
 * Will thinks the portal possibly should be like 'data journalism'- highly curated datasets
  * He is interested in a list of datasets that should be on the portal and an assessment of whether they are there or not
  * He would like a way to hear from users
-* Both Kathleen and Will think the datasets in general are not made accessible enough (through stories or visualizations)
+* Both Kathleen and Will think the datasets in general are not made accessible enough (through [stories](https://data.wa.gov/stories/s/irv9-b275) or visualizations)
 * Lib Guides for various users could be a useful curation activity but need standard tags (shouldn't link directly to datasets)
 
 
