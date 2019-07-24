@@ -32,7 +32,7 @@ Also think about the [5-stars](https://www.europeandataportal.eu/elearning/en/mo
     >API for basic metadata: data.wa.gov/api/dcat.json
     >All Socrata dataset metadata (not record metadata): https://data.wa.gov/api/views/metadata/v1/{dataset-uid}
     >All metadata for dataset and records (put in the identifier): https://data.wa.gov/views/{dataset-uid}.json
-    >ALL Asset ALL metadata: http://api.us.socrata.com/api/catalog/v1?limit=2000&domains=data.wa.gov
+    >ALL Asset ALL metadata: http://api.us.socrata.com/api/catalog/v1?limit=2000&domains=data.wa.gov - note the limit variable.  TO get all the datasets, either get a token from Socrata (I think) or get the total number of dtasets from the portal and set the limit to that.  Otherwise you only get 100 records.  This is part of the Discovery API and you can also search it through the [Socrata Open Data Network](https://www.opendatanetwork.com)
 
 
 Derived datasets pull metadata from underlying dataset so do not include those in assessment.
