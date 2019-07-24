@@ -25,7 +25,7 @@ Agencies to interview-
 - Department of Ecology
 - FWS
 
-Saunders thinks the portal should be more like data journalism.  An example would be 'governed' data (confidentail and hightly currated for use), like p20 or research data, but the portal needs this in an open way.
+Saunders thinks the portal should be more like data journalism.  An example would be 'governed' data (confidential and highly currated for use), like p20 or research data, but the portal needs this in an open way.
 
 Data needs a story- Publishers are not marketing their data, just dumping it out there.  (Kathleen- data needs an interface  with visualizations). Too many visualizations are also not good.
 
