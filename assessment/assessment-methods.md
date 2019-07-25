@@ -19,7 +19,7 @@ The complete catalog, or just the datasets, can be assessed for the following:
 - Number of links to external sites for accessing data
 - Summary statistics for category, downloads, agencies
 
-- Available elements in Socrata: License, Categories, Description, Data Provided By, Row Label, Keywords, Source Link, Contact Email, Period of Time, Posting Frequency, Originator, Metadata Language
+- Available elements in Socrata: License, Categories, Description, Data Provided By, Row Label, Keywords, Source Link, Contact Email(Should not be assessed- this is only to replace the default email, I think), Period of Time, Posting Frequency, Originator, Metadata Language
 
 - Core Elements outside the automatic or required ones in Socrata: Description, Category, Provided By, License
 
