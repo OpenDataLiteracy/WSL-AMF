@@ -92,4 +92,4 @@
 - Future data plans: Looking at other options like Tableau and PowerBI. Want to move away from data.wa.gov.  There was a push to use POwerBI but then they realized the plan was to not make that public facing so they ditched that effort.
 - Ecology uses Explorer (or Edge?) and supposedly this does not function well with Socrata.
 - Interviewee recently deleted datasets because those numbers were not going to be part of the next progress report.
-
+- Interviewee was interested to learn how other agencies were using portal.
