@@ -81,3 +81,15 @@
 - At some portals she has to compare an actual submitted disclusre report to the corresponding data in the data file in order to figure out what some columns mean ---> importance of good metadata.
 - Wishes that she could select data by filer ID rather than election year
 
+**Ecology Solid Waste** --Has data on there uploaded 2017, just removed some datasets--
+- A few years ago they wanted more data available online. One of their data teams wanted to put up data around the 14-16 indicators in the solid and hazardous waste plan.  These get reported in the Progress Report. data.wa.gov seemed like a good option.
+- In past, they put excel files and charts on website.  But they wanted people to be able to interact with data.
+- With few resources, they teamed up with iSchool students who formatted and uploaded datasets that have since not been touched (The students are dataset owners though the contact email is an employee)
+- Just as they got it all up there, Ecology went through a website redo and they lost their web coordinator so plans for visualizations fell by the wayside.
+- Users: Local WA governments, WA county recycling coordinators, NGOs/nonprofits.  EPA probably uses it.  The public is probably not a big user.
+- Interviewee fills data requests by sending email with attached file.
+- Data.wa.gov: Interviewee has not used data from there for job, but has perused to see what might be available from other agencies, then goes to agency website and either gets data or contacts someone.  data.wa.gov involves lots of scrolling, categories are not helpful.
+- Future data plans: Looking at other options like Tableau and PowerBI. Want to move away from data.wa.gov.  There was a push to use POwerBI but then they realized the plan was to not make that public facing so they ditched that effort.
+- Ecology uses Explorer (or Edge?) and supposedly this does not function well with Socrata.
+- Interviewee recently deleted datasets because those numbers were not going to be part of the next progress report.
+
