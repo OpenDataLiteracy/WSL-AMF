@@ -15,6 +15,6 @@ Overview: https://blog.hubspot.com/marketing/how-to-do-keyword-research-ht
 
 * Head and Long-tail keywords: 
    
-    Head terms are keywords phrases that are generally shorter and more generic -- they're typically just one to three words in length, depending on who you talk to. Long-tail keywords, on the other hand, are longer keyword phrases usually containing three or more words.
+> Head terms are keywords phrases that are generally shorter and more generic -- they're typically just one to three words in length, depending on who you talk to. Long-tail keywords, on the other hand, are longer keyword phrases usually containing three or more words.
 
 * User intent- choose keywords that match the intent you are trying to serve
