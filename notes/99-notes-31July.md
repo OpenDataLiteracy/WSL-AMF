@@ -2,6 +2,7 @@
 
 Yesterday met with Nic
 - keyword analysis: suggested make histogram of key words, see what best practices are and see if best practices are met.
+- Interview files will be zipped and added to the seperate interview repository.  That repository will then be zipped and archived.
 
 The Jupyter Notebook is basically done.
 
