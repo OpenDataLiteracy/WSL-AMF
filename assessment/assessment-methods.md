@@ -63,8 +63,8 @@ Total of 25 points possible.
 - DataDictionary (0=none, 1=not understandable, or partial, 2=yes, understandable)
 - Spatial (0=none, 1=there but unclear, 2=all good) - spatial spread of data indicated somewhere (e.g. "Washington Fuel Tax Active Licensees")
 - Temporal (0=none, 1=there but unclear, 2=all good) - either values in temporal element, title or description. give 1 if value is unclear or conflicts with other metadata
-- Dataset Retreivable (0=no, 1=yes)
-- Resource Retreivable (0=no, 1=yes)
+- Dataset Retrievable (0=no, 1=yes)
+- Resource Retrievable (0=no, 1=yes)
 - Data Understandable (Are the values in the cell understandable without a dictionary?=2 (money, counts, county names, etc) Ignore missing contextual metadata (e.g. okay if you don't know what the money value is for). 1=no, 0=missing)
 - Cell Accuracy  (0=more than 10 col have acc issues, 1=4-10 col, 2=1-3 col, 3=all accurate) - same values spelled the same, consistancy in format within column
 - Curation Needs  (0=more than 10 col need curation, 1=4-10 col, 2=1-3 col, 3=None needed) - summed colmns removal, summed rows removal, untidy data format, type formatting, special characters.
