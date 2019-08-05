@@ -6,7 +6,7 @@
 * Results
 * Recommendations
 
-**Intruduction**
+**Introduction**
 
 * State of OGD
 * Portal Assessment Lit review
@@ -31,7 +31,8 @@
 * Create a way for users to submit tickets
 * Identify missing datasets to seek out
 
-**Literature Review**
+**Literature Cited**
 
 **Appendix - Assessment Tools**
+* Interview Questions
 * Python scripts
