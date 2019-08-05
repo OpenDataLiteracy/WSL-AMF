@@ -2,7 +2,7 @@
 
 **Academic sources relating to assessment of data portals**
 
-[Machova and Lnenicka 2017 Evaluating the Quality of Open Data...](https://pdfs.semanticscholar.org/30d3/c97ed33dff97601142476859370784f9ad76.pdf)
+[Machova and Lnenicka 2017 Evaluating the Quality of Open Data...](https://pdfs.semanticscholar.org/30d3/c97ed33dff97601142476859370784f9ad76.pdf) - pg 27 has a nice review of assessment
 
 [Kubler et al. 2018 metadata quality assessment](http://www.sciencedirect.com/science/article/pii/S0740624X16301319)
 
