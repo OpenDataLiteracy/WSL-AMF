@@ -93,3 +93,15 @@
 - Ecology uses Explorer (or Edge?) and supposedly this does not function well with Socrata.
 - Interviewee recently deleted datasets because those numbers were not going to be part of the next progress report.
 - Interviewee was interested to learn how other agencies were using portal.
+
+**Department of Health** --Superuser with highest page views of any dataset.-- DID NOT RECORD
+- Hospitals and 3rd parties use the datasets (especially the credentials dataset) through the api
+- Before data.wa.gov, those users were scraping the doh website and crashing the site.
+- Portal works seamlessly for them.  Socrata helped them set it up.
+- He finds it difficult to train people within the department to use.
+- Agency has not embraced portal as much as it should.
+- Agency use should increase because it is more economic (free storage) and they have more data to put up (e.g. opioids)
+- They also have multiple datasets on their website and may create an index dataset to put on data.wa.gov
+- Metadata entry is not intuitive, hard to understand value of elements without sifting through lots of documentation (he thinks Socrata documentation is really good.)
+- Many people at DOH can upload data.  He provides them with a metadata template though to make it easier.
+- Recommended talking with Sean Krier- City of Olympia
