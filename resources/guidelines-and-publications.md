@@ -12,6 +12,8 @@
 
 [Correa et al 2019](https://www.sciencedirect.com/science/article/pii/S0740624X18305185?dgcid=rss_sd_all)- looks at ways to find data in the 'deep web' hidden by poorly implemented data portals.
 
+[Kucera et al. 2013](https://link.springer.com/chapter/10.1007%2F978-3-642-40160-2_13)- an early assessment of quality in OGD portals around the world- requested and received through ILL.
+
 *From Nic*
 
 Data quality assessment of maintenance reporting procedures. (2016). Expert Systems with Applications, 63, [145–164.](https://doi.org/10.1016/j.eswa.2016.06.043) -Very similar to Neumaier et al but with business branch maintenance reporting. Technical.
