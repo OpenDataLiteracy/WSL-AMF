@@ -14,6 +14,8 @@
 
 [Kucera et al. 2013](https://link.springer.com/chapter/10.1007%2F978-3-642-40160-2_13)- an early assessment of quality in OGD portals around the world- requested and received through ILL.
 
+[Veljkovic et al. 2014](https://www.sciencedirect.com/science/article/pii/S0740624X14000434).  Assesses data.gov. Puts metadata completeness in a larger category of data openess and gives the portal a value of 67.5%.  Pretty confusing paper.  The only element they include for completeness is description. 
+
 *From Nic*
 
 Data quality assessment of maintenance reporting procedures. (2016). Expert Systems with Applications, 63, [145–164.](https://doi.org/10.1016/j.eswa.2016.06.043) -Very similar to Neumaier et al but with business branch maintenance reporting. Technical.
@@ -24,7 +26,7 @@ Mitlöhner, J., Neumaier, S., Umbrich, J., & Polleres, A. (2016). Characteristic
 
 Umbrich, J., Neumaier, S., & Polleres, A. (2015). Quality Assessment and Evolution of Open Data Portals. 2015 3rd International Conference on Future Internet of Things and Cloud, [404–411.](https://doi.org/10.1109/FiCloud.2015.82) -  This is a nice analysis of ckan portals.  Their online system does not seem to be in existence anymore.  They look at core metadata values and avaialble ones.  Their core ones are the [defaults offered by ckan](https://docs.ckan.org/en/2.8/user-guide.html): title, description, tags, license, organization.  THe only required field is title but ckan suggests adding a description and license at the minimum.
 
-Veljkovic et Al. (n.d.). Municipal Open Data Challenges. In CeDEM11. Retrieved [from](https://books.google.com/books?hl=en&lr=&id=4pKT1R0DfToC&oi=fnd&pg=PA195&dq=%22open+data%22+state+level+&ots=DQloB6ejU7&sig=xv_VTqTlq63w-_ClN8AdL_N8f0#v=onepage&q=%22open%20data%22%20state%20level&f=false)
+Veljkovic et al. (n.d.). Municipal Open Data Challenges. In CeDEM11. Retrieved [from](https://books.google.com/books?hl=en&lr=&id=4pKT1R0DfToC&oi=fnd&pg=PA195&dq=%22open+data%22+state+level+&ots=DQloB6ejU7&sig=xv_VTqTlq63w-_ClN8AdL_N8f0#v=onepage&q=%22open%20data%22%20state%20level&f=false)
 
 Vetrò, A., Canova, L., Torchiano, M., Minotas, C. O., Iemma, R., & Morando, F. (2016). Open data quality measurement framework: Definition and application to Open Government Data. Government Information Quarterly, 33(2), [325–337.](https://www.sciencedirect.com/science/article/pii/S0740624X16300132) - Identifies assessment metrics specifically for OGD.  Tests effectiveness on a high quality portal and low quality portal. However, small sample size.  Also, some metrics are very subjective.  Ran 14 tests and did not adjust p-value.  Found that understandability was a big problem.  Has a nice table showing how each metric was computed.  They did what I'm going to do: automated for some, manual data collection for other.
 
