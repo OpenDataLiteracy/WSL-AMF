@@ -49,6 +49,9 @@ Vetrò, A., Canova, L., Torchiano, M., Minotas, C. O., Iemma, R., & Morando, F. 
 
 [Showell ODL project](https://github.com/OpenDataLiteracy/CityOfSeattle-2017/blob/master/SeattleMetadataStandards.pdf) - An analysis of City of Seattle metadata.
 
+[W3 basic suggestions for publishing OGD](https://www.w3.org/TR/gov-data/). Suggests the following:
+> At a minimum, document the title, description, publication date and authoritative source for the data. Use clear language, and link to related information to help put the data into context. When possible, also fully document the description of each datum and the data standard and/or data validation
+
 **Freedom of Information Act Research**
 
 [Sunlight Foundation](https://sunlightfoundation.com/2018/10/09/research-cities-save-time-on-records-requests-by-doing-open-data-right/) FOIA's decrease if open data is done right. [Full Report](http://sunlightfoundation.com/wp-content/uploads/2018/10/alena-white-paper-PDF.pdf)
