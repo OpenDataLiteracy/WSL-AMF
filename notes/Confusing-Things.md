@@ -21,4 +21,6 @@ I emailed Socrata about this. Socrata online help is very responsive (Yvonne Oul
 
 3. The dataset page views should include the number of child views.  The Exported CVS file from the site analytics page will give you a breakdown of the domain metrics of the specified time. You can click on this article "https://support.socrata.com/hc/en-us/articles/115004513528" to get column definitions of the site metrics export. We are currently working on improving the granularity of the metrics events in the next couple of months so that trends can be spotted easier.
 
+> EXCEPT See these search results: https://data.wa.gov/browse?q=Statewide+Stream+Miles+Opened  The first result, a chart, has many more page views than the second result, a dataset, on which it is based.
+
 
