@@ -1,6 +1,6 @@
 ## Things that are confusing on Socrata
 
-In the json files for datasets, under metadata there is the 'rowLabel' element that holds the value entered under 'Each row is...' when uploading data.  However, there are many datasets where the json file has a value of "Row" that does not show up on the main url for the dataset.  Values other than row do appear.  How does this happen?
+In the json files for datasets, under metadata there is the 'rowLabel' element that holds the value entered under 'Each row is...' when uploading data.  However, there are many datasets where the json file has a value of "Row" that does not show up on the main url for the dataset.  Values other than row do appear.  How does this happen? In the August 5 set there were 107 with "Row".
 
 This one has "Row":
 
