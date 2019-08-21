@@ -38,12 +38,14 @@ Data quality assessment of maintenance reporting procedures. (2016). Expert Syst
 
 [Open Data Policy Hub](https://opendatapolicyhub.sunlightfoundation.com/guidelines/)
 
+The European Data Portal sucks up data from national portal and produces many nice reports.  They are mostly focused on dataset accessibility, DCAT compliance, automation, and machine readability.
+
 [European open data recommendations 2017](https://www.europeandataportal.eu/en/what-we-do/factsheets-and-reports)
 
 [European open data](https://www.europeandataportal.eu/sites/default/files/edp_landscaping_insight_report_n4_2018.pdf) discusses state of portals.
 - Page 28 is start of chapter on assessing portals.  Just reports basic analytics for protal usage though.
 - Page 36 shows popular data domains for pubishers.
-- Page 65 begins section on quality
+- Page 65 begins section on quality- Fig 44 shows estimates of how much old data is out there.
 - Has good examples of portal impact
 
 [European Open Data Monitor](https://www.opendatamonitor.eu/frontend/web/index.php?r=dashboard%2Findex)
