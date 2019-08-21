@@ -36,6 +36,8 @@ Data quality assessment of maintenance reporting procedures. (2016). Expert Syst
 
 **Open Data Guidelines and Reports**
 
+[Socrata Benchmark](https://benchmarkstudy.socrata.com/)
+
 [Open Data Policy Hub](https://opendatapolicyhub.sunlightfoundation.com/guidelines/)
 
 The European Data Portal sucks up data from national portal and produces many nice reports.  They are mostly focused on dataset accessibility, DCAT compliance, automation, and machine readability.
