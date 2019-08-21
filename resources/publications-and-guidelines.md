@@ -36,7 +36,7 @@ Data quality assessment of maintenance reporting procedures. (2016). Expert Syst
 
 **Open Data Guidelines and Reports**
 
-[Socrata Benchmark](https://benchmarkstudy.socrata.com/)
+[Socrata Benchmark](https://benchmarkstudy.socrata.com/)  They have a [portal full of surveys](https://benchmarkstudy.socrata.com/)
 
 [Open Data Policy Hub](https://opendatapolicyhub.sunlightfoundation.com/guidelines/)
 
