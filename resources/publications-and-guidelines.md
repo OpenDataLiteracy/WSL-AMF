@@ -43,6 +43,7 @@ Data quality assessment of maintenance reporting procedures. (2016). Expert Syst
 [European open data](https://www.europeandataportal.eu/sites/default/files/edp_landscaping_insight_report_n4_2018.pdf) discusses state of portals.
 - Page 28 is start of chapter on assessing portals.  Just reports basic analytics for protal usage though.
 - Page 36 shows popular data domains for pubishers.
+- Page 65 begins section on quality
 - Has good examples of portal impact
 
 [European Open Data Monitor](https://www.opendatamonitor.eu/frontend/web/index.php?r=dashboard%2Findex)
