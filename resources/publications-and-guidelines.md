@@ -4,7 +4,7 @@
 
 [Machova and Lnenicka 2017 Evaluating the Quality of Open Data...](https://pdfs.semanticscholar.org/30d3/c97ed33dff97601142476859370784f9ad76.pdf) - pg 27 has a nice review of assessment
 
-[Kubler et al. 2018 metadata quality assessment](http://www.sciencedirect.com/science/article/pii/S0740624X16301319)
+[Kubler et al. 2018 metadata quality assessment](http://www.sciencedirect.com/science/article/pii/S0740624X16301319)- Really comprehensive assessment of 250 CKAN, Socrata, and OpenDataSoft portals that concludes that portals do not pay enough attention to metadata quality.  Particulalry lacking areas include license, temporal and spatial information.
 
 [Neumaier et al 2017 Automated method of assessing metadata](http://doi.acm.org/10.1145/2964909)
 
