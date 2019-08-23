@@ -1,7 +1,3 @@
-### Sites with metadata suggestions
-
-[New Zealand](https://data.govt.nz/manage-data/releasing-data-on-data-govt-nz/what-metadata-should-i-include-with-my-dataset/)
-
 
 ### Keyword Analysis
 
