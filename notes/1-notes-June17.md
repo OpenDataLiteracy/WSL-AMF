@@ -1,6 +1,6 @@
 ## Notes from June 17, 2019
 
-### Meeting with Kathleen:
+### Meeting with Sponsor:
 
 Went over work plan
 
