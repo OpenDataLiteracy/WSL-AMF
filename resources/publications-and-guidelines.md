@@ -54,8 +54,13 @@ The European Data Portal sucks up data from national portal and produces many ni
 
 [Showell ODL project](https://github.com/OpenDataLiteracy/CityOfSeattle-2017/blob/master/SeattleMetadataStandards.pdf) - An analysis of City of Seattle metadata.
 
+**Metadata Understandability
+
 [W3 basic suggestions for publishing OGD](https://www.w3.org/TR/gov-data/). Suggests the following:
 > At a minimum, document the title, description, publication date and authoritative source for the data. Use clear language, and link to related information to help put the data into context. When possible, also fully document the description of each datum and the data standard and/or data validation
+
+[New Zealand](https://data.govt.nz/manage-data/releasing-data-on-data-govt-nz/what-metadata-should-i-include-with-my-dataset/)- Metadata guidence
+
 
 **Freedom of Information Act Research**
 
