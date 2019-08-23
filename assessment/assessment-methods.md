@@ -21,7 +21,7 @@ The complete catalog, or just the datasets, can be assessed for the following:
 
 - Available elements in Socrata: License, Categories, Description, Data Provided By, Row Label, Keywords, Source Link, Contact Email(Should not be assessed- this is only to replace the default email, I think), Period of Time, Posting Frequency, Originator, Metadata Language
 
-- Core Elements outside the automatic or required ones in Socrata: Description, Category, Provided By, License
+- Core Elements outside the automatic or required ones in Socrata: Description, Category, Provided By, Posting Frequency, License
 
 
 ### Dataset Level Assessment
@@ -49,7 +49,7 @@ Seems like these would be good to look at:
 
 ### Sample of datasets for assessment
 
-Took 115 datasets from 12 groupings: 
+Took 117 datasets from 12 groupings: 
 
 Number of Downloads (<100, >101 but <1500, >1500)
 
@@ -71,7 +71,3 @@ Total of 25 points possible.
 - Currancy/usefulness (0=old/needs update, 1 = old/still useful (like data about an event), 2= uptodate/useful) 
 - Belongs on Portal? 1=yes, 0=no - is it data? more usable as a static webpage?
 - Curation Notes
-
-
-
-### Questions
