@@ -23,4 +23,8 @@ I emailed Socrata about this. Socrata online help is very responsive (Yvonne Oul
 
 > EXCEPT See these search results: https://data.wa.gov/browse?q=Statewide+Stream+Miles+Opened  The first result, a chart, has many more page views than the second result, a dataset, on which it is based.
 
-
+UPDATE from Socrata:
+> What I wrote was 'The dataset page views should include the number of child views'. This is incorrect.
+> The number of dataset views DOES NOT include the number of child views.
+> The number of child views DOES NOT increment the number of views of a data set. 
+> Adding the number of views from a dataset to the number of views of all its derived assets will result in a total number of views for that data in general. 
