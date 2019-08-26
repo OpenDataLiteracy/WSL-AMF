@@ -4,4 +4,4 @@
 
 [Austin](https://www.opendatanetwork.com)
 
-NYC
+[NYC](https://opendata.cityofnewyork.us/wp-content/uploads/2018/02/Open-Data-Removals-Process-and-Guidelines.pdf)
