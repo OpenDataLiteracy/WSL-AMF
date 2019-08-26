@@ -17,14 +17,19 @@ Sincerely,
 
 Andrew
 
+## Interview Questions:
 
-* In general, what are your thoughts on open government data, especially in relation to its goals of transparency and efficiency?
-* One dataset you have published is (). What is your experience with the open data portal?
+
+Describe ODL, Interested in assessing the state data portal, define metadata etc.Looking for background information.
+Ask for consent, ask to record, ask for consent again.
+
 * Why did your agency start publishing data to data.wa.gov?
 * How do you choose what data to publish?
+* One dataset you have published is (                         ). What is your experience with the open data portal?
 * Has your experience matched expectations when publishing data on data.wa.gov?
-* Do you know who uses your data?
+* Do you know who uses your data? What format do you expect them to require data?
+* How does your agency obtain information from other agencies?
 * Does your agency use data.wa.gov to find data?
-* When needed, how does your agency obtain information from other agencies?
 * What are your data publishing plans for the next few years? Status quo, more, less?
 * Is there anything else you think I should know?
+
