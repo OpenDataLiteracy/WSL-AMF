@@ -8,6 +8,7 @@ The full report is in the file: Report-Curation-the-Washington-State-Open-Data-P
 A more visual summary report, both small file size and large file size, is in the files:
 
 Visual-Curation-of-the-Washington-State-Data-Portal-SMALL.pdf
+
 Visual-Curation-of-the-Washington-State-Data-Portal.pdf
 
 ## Presentations
