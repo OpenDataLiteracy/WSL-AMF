@@ -1,0 +1,209 @@
+download_date,descriptor,unit,value
+8/5/2019,assetTypes,dataset,894
+8/5/2019,assetTypes,chart,710
+8/5/2019,assetTypes,file,551
+8/5/2019,assetTypes,filter,228
+8/5/2019,assetTypes,map,152
+8/5/2019,assetTypes,federated_href,39
+8/5/2019,assetTypes,href,30
+8/5/2019,assetTypes,datalens,22
+8/5/2019,assetTypes,form,12
+8/5/2019,assetTypes,story,9
+8/5/2019,assetTypes,visualization,4
+8/5/2019,assetTypes,calendar,2
+8/5/2019,assetCategories,No Value,799
+8/5/2019,assetCategories,Health,663
+8/5/2019,assetCategories,Education,486
+8/5/2019,assetCategories,Natural Resources & Environment,413
+8/5/2019,assetCategories,Economics,53
+8/5/2019,assetCategories,Demographics,47
+8/5/2019,assetCategories,Public Safety,41
+8/5/2019,assetCategories,Politics,35
+8/5/2019,assetCategories,Procurements and Contracts,33
+8/5/2019,assetCategories,Labor,32
+8/5/2019,assetCategories,Consumer Protection,26
+8/5/2019,assetCategories,Transportation,10
+8/5/2019,assetCategories,Recreation,8
+8/5/2019,assetCategories,Employment,6
+8/5/2019,assetCategories,Agriculture,1
+8/5/2019,availableMetadataComplete,2,426
+8/5/2019,availableMetadataComplete,6,41
+8/5/2019,availableMetadataComplete,8,24
+8/5/2019,availableMetadataComplete,5,14
+8/5/2019,availableMetadataComplete,0,14
+8/5/2019,availableMetadataComplete,7,13
+8/5/2019,availableMetadataComplete,1,8
+8/5/2019,availableMetadataComplete,3,4
+8/5/2019,availableMetadataComplete,9,3
+8/5/2019,availableMetadataComplete,4,3
+8/5/2019,coreMetadataComplete,1,435
+8/5/2019,coreMetadataComplete,3,76
+8/5/2019,coreMetadataComplete,2,24
+8/5/2019,coreMetadataComplete,0,15
+8/5/2019,median,downloads,18
+8/5/2019,median,pageviews,12
+8/5/2019,mean,downloads,1528.725951
+8/5/2019,mean,pageviews,1852.598434
+9/16/2019,assetTypes,dataset,870
+9/16/2019,assetTypes,chart,714
+9/16/2019,assetTypes,file,567
+9/16/2019,assetTypes,filter,231
+9/16/2019,assetTypes,map,152
+9/16/2019,assetTypes,href,30
+9/16/2019,assetTypes,datalens,23
+9/16/2019,assetTypes,form,12
+9/16/2019,assetTypes,story,9
+9/16/2019,assetTypes,visualization,6
+9/16/2019,assetTypes,calendar,2
+9/16/2019,assetCategories,No Value,763
+9/16/2019,assetCategories,Health,679
+9/16/2019,assetCategories,Education,475
+9/16/2019,assetCategories,Natural Resources & Environment,398
+9/16/2019,assetCategories,Economics,52
+9/16/2019,assetCategories,Demographics,47
+9/16/2019,assetCategories,Public Safety,41
+9/16/2019,assetCategories,Politics,36
+9/16/2019,assetCategories,Procurements and Contracts,33
+9/16/2019,assetCategories,Labor,32
+9/16/2019,assetCategories,Consumer Protection,31
+9/16/2019,assetCategories,Recreation,8
+9/16/2019,assetCategories,Transportation,8
+9/16/2019,assetCategories,Employment,6
+9/16/2019,assetCategories,Culture and Community,6
+9/16/2019,assetCategories,Agriculture,1
+9/16/2019,availableMetadataComplete,0,88
+9/16/2019,availableMetadataComplete,1,33
+9/16/2019,availableMetadataComplete,2,419
+9/16/2019,availableMetadataComplete,3,37
+9/16/2019,availableMetadataComplete,4,42
+9/16/2019,availableMetadataComplete,5,49
+9/16/2019,availableMetadataComplete,6,90
+9/16/2019,availableMetadataComplete,7,36
+9/16/2019,availableMetadataComplete,8,24
+9/16/2019,availableMetadataComplete,9,32
+9/16/2019,availableMetadataComplete,10,9
+9/16/2019,availableMetadataComplete,11,11
+9/16/2019,coreMetadataComplete,1,436
+9/16/2019,coreMetadataComplete,4,117
+9/16/2019,coreMetadataComplete,3,106
+9/16/2019,coreMetadataComplete,0,101
+9/16/2019,coreMetadataComplete,5,63
+9/16/2019,coreMetadataComplete,2,47
+9/16/2019,median,downloads,30.5
+9/16/2019,median,pageviews,14
+9/16/2019,mean,downloads,1645.378161
+9/16/2019,mean,pageviews,1984.811494
+9/16/2019,standardDeviation,downloads,26654.54758
+9/16/2019,standardDeviation,pageviews,34676.94108
+9/16/2019,median,numTags,7
+9/16/2019,mean,numTags,4.909195402
+9/16/2019,standardDeviation,numTags,3.337520154
+10/27/2019,assetTypes,dataset,866
+10/27/2019,assetTypes,chart,715
+10/27/2019,assetTypes,file,567
+10/27/2019,assetTypes,filter,231
+10/27/2019,assetTypes,map,151
+10/27/2019,assetTypes,href,30
+10/27/2019,assetTypes,datalens,21
+10/27/2019,assetTypes,form,12
+10/27/2019,assetTypes,story,10
+10/27/2019,assetTypes,visualization,6
+10/27/2019,assetTypes,calendar,2
+10/27/2019,assetCategories,No Value,754
+10/27/2019,assetCategories,Health,683
+10/27/2019,assetCategories,Education,472
+10/27/2019,assetCategories,Natural Resources & Environment,398
+10/27/2019,assetCategories,Economics,50
+10/27/2019,assetCategories,Demographics,47
+10/27/2019,assetCategories,Public Safety,41
+10/27/2019,assetCategories,Politics,36
+10/27/2019,assetCategories,Procurements and Contracts,34
+10/27/2019,assetCategories,Consumer Protection,32
+10/27/2019,assetCategories,Labor,32
+10/27/2019,assetCategories,Culture and Community,9
+10/27/2019,assetCategories,Transportation,8
+10/27/2019,assetCategories,Recreation,8
+10/27/2019,assetCategories,Employment,6
+10/27/2019,assetCategories,Agriculture,1
+10/27/2019,availableMetadataComplete,0,83
+10/27/2019,availableMetadataComplete,1,33
+10/27/2019,availableMetadataComplete,2,419
+10/27/2019,availableMetadataComplete,3,38
+10/27/2019,availableMetadataComplete,4,42
+10/27/2019,availableMetadataComplete,5,49
+10/27/2019,availableMetadataComplete,6,90
+10/27/2019,availableMetadataComplete,7,34
+10/27/2019,availableMetadataComplete,8,23
+10/27/2019,availableMetadataComplete,9,35
+10/27/2019,availableMetadataComplete,10,9
+10/27/2019,availableMetadataComplete,11,11
+10/27/2019,coreMetadataComplete,1,436
+10/27/2019,coreMetadataComplete,4,115
+10/27/2019,coreMetadataComplete,3,106
+10/27/2019,coreMetadataComplete,0,96
+10/27/2019,coreMetadataComplete,5,65
+10/27/2019,coreMetadataComplete,2,48
+10/27/2019,median,downloads,53
+10/27/2019,median,pageviews,20
+10/27/2019,mean,downloads,1753.450346
+10/27/2019,mean,pageviews,2063.475751
+10/27/2019,standardDeviation,downloads,27269.2389
+10/27/2019,standardDeviation,pageviews,36319.79301
+10/27/2019,median,numTags,7
+10/27/2019,mean,numTags,4.929561201
+10/27/2019,standardDeviation,numTags,3.329098063
+2020-04-29 08:41:46.639651,assetTypes,dataset,931.0
+2020-04-29 08:41:46.639651,assetTypes,file,729.0
+2020-04-29 08:41:46.639651,assetTypes,chart,727.0
+2020-04-29 08:41:46.639651,assetTypes,filter,229.0
+2020-04-29 08:41:46.639651,assetTypes,map,152.0
+2020-04-29 08:41:46.639651,assetTypes,href,33.0
+2020-04-29 08:41:46.639651,assetTypes,federated_href,25.0
+2020-04-29 08:41:46.639651,assetTypes,datalens,19.0
+2020-04-29 08:41:46.639651,assetTypes,form,12.0
+2020-04-29 08:41:46.639651,assetTypes,story,10.0
+2020-04-29 08:41:46.639651,assetTypes,visualization,6.0
+2020-04-29 08:41:46.639651,assetTypes,calendar,2.0
+2020-04-29 08:41:46.639651,assetCategories,No Value,815.0
+2020-04-29 08:41:46.639651,assetCategories,Health,812.0
+2020-04-29 08:41:46.639651,assetCategories,Education,515.0
+2020-04-29 08:41:46.639651,assetCategories,Natural Resources & Environment,406.0
+2020-04-29 08:41:46.639651,assetCategories,Economics,49.0
+2020-04-29 08:41:46.639651,assetCategories,Demographics,48.0
+2020-04-29 08:41:46.639651,assetCategories,Public Safety,42.0
+2020-04-29 08:41:46.639651,assetCategories,Politics,37.0
+2020-04-29 08:41:46.639651,assetCategories,Procurements and Contracts,36.0
+2020-04-29 08:41:46.639651,assetCategories,Consumer Protection,35.0
+2020-04-29 08:41:46.639651,assetCategories,Labor,32.0
+2020-04-29 08:41:46.639651,assetCategories,Culture and Community,23.0
+2020-04-29 08:41:46.639651,assetCategories,Transportation,9.0
+2020-04-29 08:41:46.639651,assetCategories,Recreation,8.0
+2020-04-29 08:41:46.639651,assetCategories,Employment,7.0
+2020-04-29 08:41:46.639651,assetCategories,Agriculture,1.0
+2020-04-29 08:41:46.639651,availableMetadataComplete,0,100.0
+2020-04-29 08:41:46.639651,availableMetadataComplete,1,35.0
+2020-04-29 08:41:46.639651,availableMetadataComplete,2,418.0
+2020-04-29 08:41:46.639651,availableMetadataComplete,3,39.0
+2020-04-29 08:41:46.639651,availableMetadataComplete,4,52.0
+2020-04-29 08:41:46.639651,availableMetadataComplete,5,67.0
+2020-04-29 08:41:46.639651,availableMetadataComplete,6,91.0
+2020-04-29 08:41:46.639651,availableMetadataComplete,7,32.0
+2020-04-29 08:41:46.639651,availableMetadataComplete,8,25.0
+2020-04-29 08:41:46.639651,availableMetadataComplete,9,50.0
+2020-04-29 08:41:46.639651,availableMetadataComplete,10,8.0
+2020-04-29 08:41:46.639651,availableMetadataComplete,11,14.0
+2020-04-29 08:41:46.639651,coreMetadataComplete,1,437.0
+2020-04-29 08:41:46.639651,coreMetadataComplete,3,124.0
+2020-04-29 08:41:46.639651,coreMetadataComplete,4,114.0
+2020-04-29 08:41:46.639651,coreMetadataComplete,0,113.0
+2020-04-29 08:41:46.639651,coreMetadataComplete,5,83.0
+2020-04-29 08:41:46.639651,coreMetadataComplete,2,60.0
+2020-04-29 08:41:46.639651,median,downloads,172.5
+2020-04-29 08:41:46.639651,median,pageviews,37.0
+2020-04-29 08:41:46.639651,mean,downloads,1879.173076923077
+2020-04-29 08:41:46.639651,mean,pageviews,2220.6176154672394
+2020-04-29 08:41:46.639651,standardDeviation,downloads,27797.312169096174
+2020-04-29 08:41:46.639651,standardDeviation,pageviews,41914.09268404534
+2020-04-29 08:41:46.639651,median,numTags,7.0
+2020-04-29 08:41:46.639651,mean,numTags,4.911922663802363
+2020-04-29 08:41:46.639651,standardDeviation,numTags,3.3605519353436426
