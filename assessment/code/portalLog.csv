@@ -207,3 +207,58 @@ download_date,descriptor,unit,value
 2020-04-29 08:41:46.639651,median,numTags,7.0
 2020-04-29 08:41:46.639651,mean,numTags,4.911922663802363
 2020-04-29 08:41:46.639651,standardDeviation,numTags,3.3605519353436426
+2020-07-14 17:42:34.728536,assetTypes,dataset,943.0
+2020-07-14 17:42:34.728536,assetTypes,file,754.0
+2020-07-14 17:42:34.728536,assetTypes,chart,731.0
+2020-07-14 17:42:34.728536,assetTypes,filter,230.0
+2020-07-14 17:42:34.728536,assetTypes,map,153.0
+2020-07-14 17:42:34.728536,assetTypes,href,35.0
+2020-07-14 17:42:34.728536,assetTypes,federated_href,24.0
+2020-07-14 17:42:34.728536,assetTypes,datalens,19.0
+2020-07-14 17:42:34.728536,assetTypes,story,12.0
+2020-07-14 17:42:34.728536,assetTypes,form,12.0
+2020-07-14 17:42:34.728536,assetTypes,visualization,6.0
+2020-07-14 17:42:34.728536,assetTypes,calendar,2.0
+2020-07-14 17:42:34.728536,assetCategories,Health,836.0
+2020-07-14 17:42:34.728536,assetCategories,No Value,819.0
+2020-07-14 17:42:34.728536,assetCategories,Education,519.0
+2020-07-14 17:42:34.728536,assetCategories,Natural Resources & Environment,407.0
+2020-07-14 17:42:34.728536,assetCategories,Demographics,52.0
+2020-07-14 17:42:34.728536,assetCategories,Economics,50.0
+2020-07-14 17:42:34.728536,assetCategories,Public Safety,42.0
+2020-07-14 17:42:34.728536,assetCategories,Procurements and Contracts,37.0
+2020-07-14 17:42:34.728536,assetCategories,Consumer Protection,37.0
+2020-07-14 17:42:34.728536,assetCategories,Politics,37.0
+2020-07-14 17:42:34.728536,assetCategories,Labor,32.0
+2020-07-14 17:42:34.728536,assetCategories,Culture and Community,25.0
+2020-07-14 17:42:34.728536,assetCategories,Transportation,12.0
+2020-07-14 17:42:34.728536,assetCategories,Recreation,8.0
+2020-07-14 17:42:34.728536,assetCategories,Employment,7.0
+2020-07-14 17:42:34.728536,assetCategories,Agriculture,1.0
+2020-07-14 17:42:34.728536,availableMetadataComplete,0,100.0
+2020-07-14 17:42:34.728536,availableMetadataComplete,1,35.0
+2020-07-14 17:42:34.728536,availableMetadataComplete,2,417.0
+2020-07-14 17:42:34.728536,availableMetadataComplete,3,39.0
+2020-07-14 17:42:34.728536,availableMetadataComplete,4,52.0
+2020-07-14 17:42:34.728536,availableMetadataComplete,5,68.0
+2020-07-14 17:42:34.728536,availableMetadataComplete,6,96.0
+2020-07-14 17:42:34.728536,availableMetadataComplete,7,33.0
+2020-07-14 17:42:34.728536,availableMetadataComplete,8,25.0
+2020-07-14 17:42:34.728536,availableMetadataComplete,9,53.0
+2020-07-14 17:42:34.728536,availableMetadataComplete,10,11.0
+2020-07-14 17:42:34.728536,availableMetadataComplete,11,14.0
+2020-07-14 17:42:34.728536,coreMetadataComplete,1,436.0
+2020-07-14 17:42:34.728536,coreMetadataComplete,3,130.0
+2020-07-14 17:42:34.728536,coreMetadataComplete,4,117.0
+2020-07-14 17:42:34.728536,coreMetadataComplete,0,113.0
+2020-07-14 17:42:34.728536,coreMetadataComplete,5,87.0
+2020-07-14 17:42:34.728536,coreMetadataComplete,2,60.0
+2020-07-14 17:42:34.728536,median,downloads,216.0
+2020-07-14 17:42:34.728536,median,pageviews,45.0
+2020-07-14 17:42:34.728536,mean,downloads,1913.564983888292
+2020-07-14 17:42:34.728536,mean,pageviews,2307.2619300106044
+2020-07-14 17:42:34.728536,standardDeviation,downloads,27205.50958958198
+2020-07-14 17:42:34.728536,standardDeviation,pageviews,44230.128935801265
+2020-07-14 17:42:34.728536,median,numTags,7.0
+2020-07-14 17:42:34.728536,mean,numTags,4.93001060445387
+2020-07-14 17:42:34.728536,standardDeviation,numTags,3.354083086992954
